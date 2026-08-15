@@ -1,79 +1,57 @@
 # app.py
-# simple web app for talknlock content performance prediction.
-# no def functions, just simple streamlit code.
+# simple streamlit web app for marketing intelligence tool.
+# written like a basic college student project.
 
 import streamlit as st
 import pickle
 import numpy as np
-import os
-import shutil
 
-# copy the model file here if it isn't already here
-if not os.path.exists('model.pkl'):
-    shutil.copy('../part3_ml_model/model.pkl', 'model.pkl')
+# load the raw model directly from the training folder
+model = pickle.load(open('../part3_ml_model/model.pkl', 'rb'))
 
-# load the model and mappings
-with open('model.pkl', 'rb') as f:
-    package = pickle.load(f)
+# mapping dictionaries
+ind_map = {'Tech': 0, 'Fashion': 1, 'Finance': 2, 'Food': 3, 'Health': 4}
+plat_map = {'Instagram': 0, 'Facebook': 1, 'LinkedIn': 2, 'YouTube': 3, 'TikTok': 4}
+type_map = {'Reel': 0, 'Carousel': 1, 'Image': 2, 'Text': 3, 'Video': 4}
+topic_map = {'Education': 0, 'News': 1, 'BehindScenes': 2, 'Tutorial': 3, 'Promo': 4}
 
-model = package['model']
-industry_map = package['industry_map']
-platform_map = package['platform_map']
-type_map = package['type_map']
-topic_map = package['topic_map']
+st.title("Talknlock Content Predictor")
+st.write("Enter details below to predict how well your post will perform:")
 
-# set up web page title
-st.set_page_config(page_title="Talknlock AI App", layout="centered")
-st.title("📊 Talknlock Content Predictor")
-st.write("This is a simple prototype to predict how well a post will perform.")
-
-st.subheader("Select post details:")
-
-# dropdown selectors for the user
+# select boxes for user input
 col1, col2 = st.columns(2)
 with col1:
-    input_industry = st.selectbox("Industry", list(industry_map.keys()))
-    input_platform = st.selectbox("Platform", list(platform_map.keys()))
-    input_type = st.selectbox("Content Type", list(type_map.keys()))
+    input_industry = st.selectbox("Select Industry", list(ind_map.keys()))
+    input_platform = st.selectbox("Select Platform", list(plat_map.keys()))
+    input_type = st.selectbox("Select Content Type", list(type_map.keys()))
 with col2:
-    input_topic = st.selectbox("Content Topic", list(topic_map.keys()))
-    input_spend = st.number_input("Ad Spend ($)", min_value=0, max_value=1000, value=0, step=10)
+    input_topic = st.selectbox("Select Content Topic", list(topic_map.keys()))
+    input_spend = st.number_input("Ad Spend ($)", min_value=0, max_value=500, value=0, step=10)
 
-# predict when button is clicked
-if st.button("Predict Score", type="primary"):
-    # map select strings to numbers for the model
-    ind_code = industry_map[input_industry]
-    plat_code = platform_map[input_platform]
-    type_code = type_map[input_type]
-    topic_code = topic_map[input_topic]
+# when button is clicked
+if st.button("Predict Performance Score"):
+    # convert string values to numeric codes using our maps
+    ind_val = ind_map[input_industry]
+    plat_val = plat_map[input_platform]
+    type_val = type_map[input_type]
+    topic_val = topic_map[input_topic]
     
-    # create feature list
-    features = np.array([[ind_code, plat_code, type_code, topic_code, input_spend]])
+    # put features in a 2D array
+    features = [[ind_val, plat_val, type_val, topic_val, input_spend]]
     
-    # get prediction score
+    # get prediction from the model
     score = model.predict(features)[0]
     score = int(round(score))
     
-    # estimate engagement
-    engagement = int(score * 3.2)
+    # print prediction output
+    st.write(f"### Predicted Performance Score: {score} / 100")
     
-    # print results to page
-    st.markdown("---")
-    st.subheader("🔮 System Output")
-    st.write(f"**Predicted performance score** ➔ **{score} / 100**")
-    st.write(f"**Expected engagement** ➔ **{engagement} interactions** (likes, comments, clicks)")
-    
-    # print top factors influencing the score
-    st.write("**Top factors influencing prediction:**")
-    st.write("1. **Platform Selection** (LinkedIn and TikTok have higher reach)")
-    st.write("2. **Ad Spend** (Paid posts get a boost in visibility)")
-    st.write("3. **Industry Vertical** (Certain products get easier engagement)")
-    
-    # simple tip based on input content type
-    st.write("**Recommended action:**")
+    # simple advice based on platform and type choice
+    st.write("---")
+    st.write("**Top Tips:**")
     if input_type != 'Reel' and input_platform in ['Instagram', 'TikTok']:
-        st.info("💡 Tip: Try changing your content type to 'Reel' for Instagram/TikTok to boost engagement!")
+        st.write("- Changing format to Reel would get higher engagement on Instagram/TikTok.")
     elif input_spend == 0:
-        st.info("💡 Tip: Adding a small budget (like $20-$50) can significantly boost reach and score!")
+        st.write("- Try boosting this post with $20-$30 to increase reach.")
     else:
-        st.success("💡 Content parameters look solid! Proceed with publishing.")
+        st.write("- Good configuration! Ready to publish.")

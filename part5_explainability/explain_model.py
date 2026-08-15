@@ -1,58 +1,44 @@
 # explain_model.py
-# simple script to explain how the model makes its decisions.
-# no def functions, just plain code.
+# simple script to explain the model predictions.
+# written like a basic college assignment.
 
 import pickle
-import pandas as pd
-import numpy as np
 
-# load the trained model package
-with open('../part3_ml_model/model.pkl', 'rb') as f:
-    package = pickle.load(f)
+# load the raw model from pickle
+model = pickle.load(open('../part3_ml_model/model.pkl', 'rb'))
 
-model = package['model']
-industry_map = package['industry_map']
-platform_map = package['platform_map']
-type_map = package['type_map']
-topic_map = package['topic_map']
+# mapping dicts
+ind_map = {'Tech': 0, 'Fashion': 1, 'Finance': 2, 'Food': 3, 'Health': 4}
+plat_map = {'Instagram': 0, 'Facebook': 1, 'LinkedIn': 2, 'YouTube': 3, 'TikTok': 4}
+type_map = {'Reel': 0, 'Carousel': 1, 'Image': 2, 'Text': 3, 'Video': 4}
+topic_map = {'Education': 0, 'News': 1, 'BehindScenes': 2, 'Tutorial': 3, 'Promo': 4}
 
-# get feature importances (which inputs matter most)
-importances = model.feature_importances_
+# print feature importance values
 features = ['Industry', 'Platform', 'Content Type', 'Content Topic', 'Ad Spend']
+importances = model.feature_importances_
 
-print("--- WHAT MATTERS MOST TO THE MODEL ---")
+print("--- Feature Importances ---")
 for i in range(len(features)):
-    print(f"{features[i]}: {round(importances[i] * 100, 1)}% importance")
+    importance_percent = round(importances[i] * 100, 2)
+    print(f"{features[i]}: {importance_percent}%")
 
-# mock test inputs for a post
+# test prediction for a single post
 test_industry = 'Tech'
 test_platform = 'LinkedIn'
 test_type = 'Reel'
 test_topic = 'Education'
 test_spend = 50.0
 
-# convert strings to codes using the saved maps
-ind_code = industry_map[test_industry]
-plat_code = platform_map[test_platform]
-type_code = type_map[test_type]
-topic_code = topic_map[test_topic]
+# convert strings to codes using the maps
+ind_val = ind_map[test_industry]
+plat_val = plat_map[test_platform]
+type_val = type_map[test_type]
+topic_val = topic_map[test_topic]
 
-# make prediction input vector
-test_vector = np.array([[ind_code, plat_code, type_code, topic_code, test_spend]])
+# make prediction
+test_row = [[ind_val, plat_val, type_val, topic_val, test_spend]]
+prediction = model.predict(test_row)[0]
 
-# predict score
-predicted_score = model.predict(test_vector)[0]
-
-print("\n--- TEST POST PREDICTION ---")
-print(f"Post details: {test_industry} | {test_platform} | {test_type} | {test_topic} | Spend: ${test_spend}")
-print(f"Predicted Score: {round(predicted_score, 1)} / 100")
-
-# plain english explanation
-print("\n--- SIMPLE EXPLANATION ---")
-print(f"Our database average score is around 96.0.")
-print(f"This post is predicted to score {round(predicted_score, 1)}.")
-print(f"Why?")
-print(f"  - Chosing {test_platform} gives high reach and engagement.")
-print(f"  - Using the {test_type} format increases user watch time.")
-print(f"  - Adding ${test_spend} ad spend boosts the impressions.")
-print(f"  - Topic '{test_topic}' is very relevant for {test_industry} audiences.")
+print("\n--- Test Post prediction ---")
+print("Input details: Tech, LinkedIn, Reel, Education, $50 Spend")
+print(f"Predicted Score: {round(prediction, 2)} / 100")
