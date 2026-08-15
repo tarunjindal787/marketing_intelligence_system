@@ -1,66 +1,55 @@
 # ai_reasoning.py
-# This script shows how we combine our ML model predictions with an LLM (AI reasoning layer).
-# Since we want to keep it simple, we simulate the LLM's output using simple python text mapping.
-# No functions (def) are used in this script. Everything is flat and top-down.
+# this script shows how the ML prediction is combined with an LLM prompt.
+# we use template printing so it runs without needing active API keys.
+# no def functions, just simple steps.
 
-import json
-
-# Step 1: Assume our ML model from Part 3 outputted these results
-predicted_score = 40
-expected_engagement = 140
+# Step 1: Mock output variables from our ML model (model.pkl)
+predicted_score = 98
+expected_engagement = 313
 platform = "LinkedIn"
 industry = "Tech"
 content_type = "Reel"
-topic = "Product Education"
-ad_spend = 100.0
+topic = "Education"
+ad_spend = 50.0
 
-# Step 2: Create a prompt that we would send to an LLM (like Gemini or OpenAI)
-# This prompt merges the raw marketing data with the ML prediction score
+# Step 2: Build a prompt we would send to an LLM (like Gemini or GPT)
 prompt = f"""
-You are an expert AI Marketing Assistant. 
-Analyze the following post proposal and the prediction from our Machine Learning model:
+You are an AI Marketing Assistant. 
+Analyze this post idea and our ML model prediction:
 
---- INPUT DATA ---
 - Industry: {industry}
 - Platform: {platform}
 - Content Type: {content_type}
-- Content Topic: {topic}
+- Topic: {topic}
 - Ad Spend: ${ad_spend}
 
---- ML MODEL PREDICTION ---
+ML Prediction:
 - Predicted Performance Score: {predicted_score}/100
 - Expected Engagement: {expected_engagement} interactions
 
---- TASK ---
-Generate a friendly, action-oriented content brief that the digital marketer can use. 
-Explain why the ML model predicted this score and what they should write about.
+Write a short, friendly content plan for the marketer. 
+Explain why the score is high/low and what they should write about.
 Keep it under 3 paragraphs.
 """
 
-print("--- THE PROMPT SENT TO THE LLM ---")
+print("--- PROMPT WE SEND TO THE LLM ---")
 print(prompt)
 
-# Step 3: Simulate the LLM's response
-# In production, we would use: response = openai.ChatCompletion.create(...) or google.generativeai.generate_content(...)
-# Here we simulate it with a clean template so anyone can run the script without paying for API keys.
+# Step 3: Simulated response returned by the LLM
+simulated_llm_response = f"""
+Hey Team,
 
-llm_simulated_response = f"""
-Subject: Marketing Insight & Action Plan for your upcoming {platform} post
+Your upcoming post on {platform} about "{topic}" is predicted to score a very high {predicted_score}/100. 
 
-Hi Campaign Team,
+Why is it so high?
+- **LinkedIn Boost**: LinkedIn has strong click rates for Tech content.
+- **Video Format**: Using a Reel format keeps viewers watching longer.
+- **Budget**: Spending ${ad_spend} on ads guarantees a larger initial audience.
 
-Our ML model has predicted a Performance Score of {predicted_score}/100 for your proposed {content_type} post on {platform} about "{topic}". This is a strong prediction, performing about 38% better than the company benchmark (average score 28.9).
-
-Why did the model predict this?
-- **LinkedIn Advantage**: LinkedIn is our highest-converting platform for B2B Tech clients, which drives up the score.
-- **Reel Format**: Video reels are highly pushed by the algorithm, resulting in higher watch times and reach.
-- **Paid Boost**: The ${ad_spend} ad spend ensures high visibility and improves lead conversion.
-
-Suggested Next Steps (Human Action Required):
-1. Write a script focusing on solving a common developer problem (since topic is Product Education).
-2. Start the video with a strong hook in the first 3 seconds (e.g. "Stop wasting hours on...").
-3. Include a clear call-to-action (CTA) pointing users to our landing page to convert them into leads.
+Suggested Next Steps:
+1. Write a short script that explains a common tech problem in the first 5 seconds.
+2. Put the link to our website in the comments to drive conversions.
 """
 
-print("\n--- SIMULATED LLM REASONING LAYER OUTPUT ---")
-print(llm_simulated_response)
+print("\n--- SIMULATED LLM RESPONSE ---")
+print(simulated_llm_response)

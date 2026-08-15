@@ -1,601 +1,551 @@
-Client,Industry,Platform,Content Type,Content Topic,Posting Day,Posting Time,Reach,Impressions,Likes,Comments,Shares,Saves,Video Views,Watch Time (Hours),Clicks,Leads,Ad Spend,Revenue,Performance Score
-Client_B,Tech,LinkedIn,Carousel,Industry News,Tuesday,12 AM,6469,15867,336,167,796,228,0,0.0,491,43,222.52,5080.27,37
-Client_H,Healthcare,LinkedIn,Reel,Industry News,Saturday,6 PM,2994,4237,102,71,187,74,2143,125.77,164,9,0.0,1301.05,27
-Client_I,Finance,TikTok,Image,Promo/Offer,Tuesday,12 AM,9428,14701,974,213,228,353,8025,995.39,239,8,58.3,1164.53,25
-Client_B,Healthcare,Facebook,Video,Industry News,Tuesday,6 PM,3275,6960,130,38,230,68,5071,1070.03,257,6,0.0,863.52,22
-Client_F,Fashion,YouTube,Text,Tutorial,Tuesday,3 PM,48256,100939,4634,1511,1673,1109,60948,4155.55,1152,30,300.6,3717.64,20
-Client_G,Healthcare,Instagram,Text,Tutorial,Friday,6 PM,9608,16844,1644,273,466,414,0,0.0,556,22,0.0,2211.99,24
-Client_H,Tech,LinkedIn,Video,Industry News,Friday,9 AM,14027,27941,739,792,1869,812,17870,2639.78,792,56,199.48,8342.46,38
-Client_D,Tech,Facebook,Video,Product Education,Monday,12 AM,7065,15387,231,102,590,229,9402,1610.74,829,62,0.0,8237.85,35
-Client_E,Food & Beverage,LinkedIn,Text,Promo/Offer,Thursday,9 AM,2251,3462,101,78,113,49,0,0.0,110,11,0.0,1541.92,38
-Client_I,Fashion,LinkedIn,Text,Industry News,Friday,12 PM,5490,9184,218,167,405,212,0,0.0,467,24,0.0,3017.81,37
-Client_B,Tech,YouTube,Image,Product Education,Tuesday,12 PM,54565,86062,3871,1166,2946,527,37795,6819.31,2256,47,242.06,4066.83,15
-Client_C,Food & Beverage,YouTube,Text,Industry News,Sunday,6 PM,33838,49046,2030,603,1515,455,34986,6380.55,1206,37,464.73,3523.85,14
-Client_J,Healthcare,Instagram,Image,Product Education,Monday,9 PM,57082,141421,7864,2139,3097,3879,0,0.0,2412,65,481.17,9250.81,16
-Client_J,Healthcare,Instagram,Video,Product Education,Thursday,12 AM,52371,94767,6822,1391,1195,2902,55238,13025.32,3607,74,341.47,9137.6,23
-Client_B,Tech,TikTok,Carousel,Promo/Offer,Wednesday,12 PM,51895,121095,13122,2398,2692,5829,80115,4131.1,4179,158,95.72,19977.08,25
-Client_E,Tech,Instagram,Video,Industry News,Wednesday,3 PM,14742,22745,2495,423,341,914,9560,1690.75,793,17,0.0,1756.93,19
-Client_E,Fashion,YouTube,Video,Tutorial,Friday,9 AM,10069,20974,667,135,576,367,9458,1056.0,775,52,0.0,7292.96,32
-Client_D,Fashion,Instagram,Image,Promo/Offer,Sunday,6 PM,37413,64522,4025,1217,876,2354,0,0.0,2159,96,403.95,12181.78,24
-Client_E,Fashion,Instagram,Text,Product Education,Sunday,6 PM,35718,90901,10089,997,2108,2628,0,0.0,1668,40,413.86,5365.31,20
-Client_I,Food & Beverage,TikTok,Image,Product Education,Monday,3 PM,45511,118102,8762,2334,2211,6077,52703,12116.47,1854,42,306.35,4642.01,23
-Client_I,Fashion,LinkedIn,Text,Product Education,Saturday,3 PM,4579,6065,244,145,261,141,0,0.0,252,15,0.0,1898.18,35
-Client_C,Healthcare,TikTok,Image,Tutorial,Friday,9 AM,13682,22300,2136,182,420,860,13140,3025.3,755,22,0.0,1890.59,26
-Client_J,Finance,Instagram,Carousel,Behind the Scenes,Tuesday,12 PM,3574,5163,565,74,94,118,0,0.0,81,5,0.0,573.03,28
-Client_C,Tech,Instagram,Text,Industry News,Tuesday,12 AM,14471,25431,1487,329,490,644,0,0.0,680,26,0.0,3454.56,25
-Client_J,Healthcare,YouTube,Video,Tutorial,Tuesday,12 AM,20143,39314,829,290,964,655,22642,4363.32,669,26,0.0,3705.31,15
-Client_C,Fashion,Facebook,Text,Industry News,Saturday,12 PM,1387,2123,26,26,46,37,0,0.0,113,2,0.0,283.29,22
-Client_G,Food & Beverage,Instagram,Image,Behind the Scenes,Sunday,6 PM,9000,17411,1964,213,269,688,0,0.0,377,22,0.0,2989.14,28
-Client_H,Fashion,TikTok,Video,Product Education,Thursday,9 PM,35034,44981,4978,445,683,1226,26173,3075.33,1636,60,0.0,8795.06,26
-Client_E,Tech,YouTube,Reel,Promo/Offer,Monday,3 PM,18323,36302,1458,188,580,698,16733,1259.06,1092,58,0.0,5524.94,24
-Client_F,Fashion,TikTok,Video,Product Education,Sunday,12 PM,79829,116809,13675,717,2838,4189,78991,13858.85,1525,101,345.13,14091.57,36
-Client_B,Healthcare,Instagram,Image,Promo/Offer,Thursday,12 AM,21481,46522,3922,854,802,1737,0,0.0,1106,32,221.63,2954.55,25
-Client_E,Healthcare,TikTok,Text,Tutorial,Thursday,12 AM,22152,45449,2548,544,676,2511,29275,3682.73,493,35,0.0,3245.51,30
-Client_F,Finance,LinkedIn,Image,Promo/Offer,Saturday,3 PM,1846,3006,126,72,147,44,0,0.0,115,5,215.09,502.98,30
-Client_D,Finance,TikTok,Image,Tutorial,Friday,9 PM,72168,167862,11576,1324,2083,5045,75172,11814.99,5516,171,357.37,16270.12,23
-Client_E,Healthcare,TikTok,Video,Behind the Scenes,Monday,12 PM,49317,80515,5571,1244,1696,4748,36272,8113.76,1990,144,276.38,17306.57,38
-Client_H,Food & Beverage,LinkedIn,Carousel,Product Education,Wednesday,6 PM,6830,13013,288,209,683,168,0,0.0,713,40,322.13,5340.44,38
-Client_J,Healthcare,Facebook,Video,Tutorial,Thursday,6 PM,14035,36579,1257,258,1405,588,17719,3226.38,1086,33,318.09,2813.4,16
-Client_G,Food & Beverage,TikTok,Text,Behind the Scenes,Monday,12 PM,15635,29753,2919,427,766,1694,19770,4680.23,677,35,0.0,4386.71,30
-Client_C,Tech,Instagram,Carousel,Behind the Scenes,Friday,12 AM,18525,30365,2164,397,468,1096,0,0.0,702,39,0.0,5548.12,28
-Client_J,Finance,Instagram,Reel,Industry News,Saturday,9 PM,13714,30164,2077,363,757,651,19926,4647.03,465,25,0.0,3110.87,28
-Client_B,Food & Beverage,LinkedIn,Text,Behind the Scenes,Wednesday,12 AM,1550,2371,74,49,148,68,0,0.0,91,6,0.0,615.77,39
-Client_I,Tech,TikTok,Text,Tutorial,Monday,12 PM,29081,56895,5871,1076,1193,1601,32728,6206.87,776,60,0.0,7357.26,33
-Client_C,Finance,TikTok,Reel,Promo/Offer,Thursday,9 AM,14796,31262,1820,492,624,1665,18868,1975.2,1095,86,0.0,8347.26,42
-Client_C,Food & Beverage,Facebook,Video,Promo/Offer,Saturday,12 PM,975,1940,91,15,67,24,1007,168.56,106,5,0.0,452.01,32
-Client_H,Finance,LinkedIn,Video,Promo/Offer,Thursday,6 PM,10934,27843,1510,541,1189,507,21310,2690.31,1521,148,203.83,18594.92,44
-Client_H,Tech,Facebook,Video,Promo/Offer,Wednesday,9 AM,9132,21544,965,276,263,421,10901,1903.88,795,19,89.19,1956.99,23
-Client_I,Food & Beverage,LinkedIn,Text,Promo/Offer,Monday,9 PM,2170,4664,110,112,281,137,0,0.0,130,7,129.19,706.74,27
-Client_A,Finance,Instagram,Image,Behind the Scenes,Wednesday,6 PM,3936,6345,397,68,140,171,0,0.0,193,9,0.0,1087.39,24
-Client_H,Finance,YouTube,Image,Product Education,Sunday,6 PM,15449,20979,499,193,611,289,10490,2297.95,335,14,0.0,1593.54,19
-Client_G,Healthcare,LinkedIn,Video,Behind the Scenes,Saturday,3 PM,3164,6973,330,154,222,173,4174,963.49,234,22,291.65,2694.88,42
-Client_D,Fashion,TikTok,Image,Industry News,Saturday,9 AM,8133,13344,1351,216,212,314,6275,479.61,349,27,0.0,3163.31,35
-Client_C,Finance,YouTube,Image,Behind the Scenes,Sunday,9 AM,24113,32329,1435,474,1273,512,23336,2873.95,1090,22,0.0,2586.32,22
-Client_F,Finance,TikTok,Text,Behind the Scenes,Monday,12 AM,12516,22773,1661,330,522,1011,13338,2537.09,671,18,0.0,1497.14,17
-Client_E,Food & Beverage,Instagram,Reel,Industry News,Friday,12 PM,8211,15358,1784,112,381,564,8691,606.67,379,16,0.0,2345.7,22
-Client_F,Fashion,YouTube,Text,Industry News,Sunday,3 PM,13780,21597,773,317,394,127,16837,3617.23,275,8,0.0,998.12,10
-Client_A,Finance,Facebook,Carousel,Promo/Offer,Tuesday,9 AM,11171,26963,1120,400,493,375,0,0.0,1472,77,391.7,10463.99,26
-Client_A,Fashion,Instagram,Image,Industry News,Friday,3 PM,2749,3442,298,57,67,171,0,0.0,87,2,0.0,230.54,25
-Client_A,Healthcare,LinkedIn,Text,Product Education,Monday,6 PM,3678,4810,181,62,206,134,0,0.0,138,12,0.0,1451.71,40
-Client_G,Healthcare,TikTok,Image,Tutorial,Friday,9 PM,16034,30493,2914,250,744,1547,17704,1694.25,614,28,0.0,3055.34,24
-Client_F,Food & Beverage,LinkedIn,Image,Behind the Scenes,Tuesday,12 AM,6030,13473,667,292,704,353,0,0.0,563,39,66.35,3453.69,39
-Client_G,Tech,LinkedIn,Video,Behind the Scenes,Wednesday,9 AM,9919,20342,1094,436,1230,352,14704,3220.63,1103,109,71.94,13401.56,55
-Client_I,Tech,TikTok,Image,Product Education,Tuesday,3 PM,46704,80954,7772,1584,2009,1844,35352,5518.32,1723,81,88.76,7372.51,26
-Client_F,Healthcare,TikTok,Reel,Product Education,Tuesday,12 PM,7091,10438,876,170,161,393,4650,632.32,193,11,0.0,1254.71,34
-Client_E,Tech,Facebook,Text,Promo/Offer,Monday,9 AM,6796,10998,254,74,356,56,0,0.0,400,24,142.65,2760.44,34
-Client_F,Tech,YouTube,Reel,Tutorial,Monday,6 PM,12102,21490,824,111,289,242,11387,2394.28,613,42,0.0,6064.12,25
-Client_G,Tech,Facebook,Text,Promo/Offer,Thursday,9 PM,4293,7523,125,75,100,95,0,0.0,392,16,179.87,2094.66,29
-Client_C,Fashion,Instagram,Carousel,Behind the Scenes,Tuesday,12 PM,82502,195032,18324,2670,4149,7520,0,0.0,5935,432,476.62,54004.07,40
-Client_F,Finance,Facebook,Text,Product Education,Thursday,6 PM,5186,10119,288,79,213,56,0,0.0,448,35,55.61,3021.23,38
-Client_I,Food & Beverage,YouTube,Video,Promo/Offer,Sunday,12 AM,6216,12493,285,70,181,151,5514,1267.26,253,15,0.0,1729.78,21
-Client_A,Fashion,YouTube,Text,Promo/Offer,Friday,9 PM,66399,168635,6265,1407,4878,975,89692,14493.57,3641,127,391.74,17730.42,23
-Client_C,Finance,Instagram,Video,Industry News,Wednesday,3 PM,27843,63012,5988,979,791,2088,49076,12241.17,2354,60,288.28,7615.92,25
-Client_F,Tech,LinkedIn,Image,Industry News,Tuesday,3 PM,14414,36611,1886,906,1888,737,0,0.0,1493,133,161.98,18799.22,48
-Client_C,Healthcare,YouTube,Carousel,Industry News,Tuesday,12 AM,52804,78557,3832,1008,2558,1112,38775,3793.5,3061,205,365.4,29372.03,31
-Client_F,Healthcare,YouTube,Text,Behind the Scenes,Sunday,6 PM,21714,47038,1977,536,823,332,35261,5673.78,615,43,0.0,6002.01,27
-Client_B,Fashion,LinkedIn,Text,Promo/Offer,Tuesday,6 PM,2063,2933,99,58,94,30,0,0.0,94,10,0.0,1062.44,38
-Client_F,Tech,LinkedIn,Carousel,Industry News,Monday,3 PM,6597,8832,335,133,292,89,0,0.0,442,36,0.0,4712.63,42
-Client_G,Tech,LinkedIn,Carousel,Behind the Scenes,Monday,9 AM,3323,6625,161,68,356,186,0,0.0,268,17,0.0,1530.86,36
-Client_A,Healthcare,LinkedIn,Carousel,Promo/Offer,Thursday,12 PM,1212,1891,78,19,95,48,0,0.0,96,5,0.0,535.41,33
-Client_E,Tech,LinkedIn,Reel,Behind the Scenes,Tuesday,12 AM,2956,6139,256,157,227,161,3596,679.92,269,26,41.28,2194.84,47
-Client_A,Finance,Facebook,Reel,Industry News,Monday,3 PM,3058,6694,134,57,105,109,4768,1064.03,234,6,0.0,634.57,18
-Client_H,Food & Beverage,LinkedIn,Carousel,Tutorial,Saturday,6 PM,4104,7055,346,186,381,81,0,0.0,291,20,0.0,1712.1,43
-Client_E,Finance,YouTube,Video,Tutorial,Tuesday,12 AM,18384,22839,550,338,416,456,17795,1156.82,665,27,0.0,3674.07,27
-Client_C,Tech,Facebook,Video,Tutorial,Monday,12 PM,7565,16838,190,146,395,122,9725,635.79,490,20,475.74,2040.14,20
-Client_D,Tech,Instagram,Carousel,Tutorial,Friday,6 PM,13284,26235,1705,524,626,1166,0,0.0,419,11,0.0,937.02,17
-Client_H,Tech,LinkedIn,Image,Product Education,Friday,9 PM,4659,9557,545,192,590,217,0,0.0,273,16,0.0,1435.54,36
-Client_A,Finance,TikTok,Video,Behind the Scenes,Thursday,9 PM,57977,90102,9039,1563,2287,3696,38698,9460.73,2637,123,499.81,15695.74,30
-Client_C,Healthcare,TikTok,Carousel,Industry News,Thursday,9 PM,15261,29460,3400,376,852,854,15131,995.2,468,36,97.74,3571.62,41
-Client_E,Healthcare,TikTok,Reel,Promo/Offer,Saturday,12 PM,28700,38865,3903,522,1043,1718,28375,1579.77,441,25,0.0,3009.35,35
-Client_D,Healthcare,YouTube,Video,Product Education,Thursday,12 AM,20952,45186,1906,258,855,690,19157,2642.15,1108,35,0.0,4286.32,18
-Client_F,Finance,YouTube,Carousel,Behind the Scenes,Friday,9 PM,18797,35877,497,400,772,335,17913,3995.7,530,21,139.0,2529.2,18
-Client_D,Fashion,YouTube,Video,Tutorial,Thursday,3 PM,24128,51760,2519,284,1065,425,30950,7009.18,1533,73,0.0,8582.49,20
-Client_G,Fashion,LinkedIn,Image,Tutorial,Wednesday,9 AM,11225,22806,808,604,1185,433,0,0.0,996,86,158.53,7654.55,39
-Client_G,Finance,LinkedIn,Video,Behind the Scenes,Sunday,12 PM,3074,5266,255,68,267,137,3987,310.81,278,19,38.68,2042.63,43
-Client_E,Healthcare,LinkedIn,Video,Promo/Offer,Friday,6 PM,5048,6787,248,186,447,109,4423,749.18,223,19,72.61,2812.84,47
-Client_J,Fashion,Instagram,Video,Tutorial,Tuesday,9 PM,56915,129146,7450,939,2101,2680,87328,11533.89,4293,322,475.14,45433.31,28
-Client_C,Healthcare,Facebook,Video,Behind the Scenes,Saturday,6 PM,4567,9849,308,134,298,129,6621,1395.25,324,15,0.0,2205.2,24
-Client_I,Finance,Facebook,Image,Behind the Scenes,Saturday,12 PM,4175,6466,270,76,88,58,0,0.0,235,18,0.0,2471.16,30
-Client_E,Tech,LinkedIn,Reel,Behind the Scenes,Thursday,12 AM,3999,5654,174,68,231,120,3937,385.26,149,15,0.0,1436.96,40
-Client_A,Tech,YouTube,Image,Tutorial,Monday,12 AM,10671,18678,490,182,678,355,8961,2175.58,366,21,0.0,3014.67,23
-Client_J,Fashion,TikTok,Reel,Industry News,Thursday,12 PM,10389,16591,1917,301,473,970,6697,1095.58,219,17,0.0,1698.63,44
-Client_I,Healthcare,YouTube,Carousel,Promo/Offer,Thursday,3 PM,12716,19464,699,162,202,307,10082,1863.96,307,17,0.0,2120.08,24
-Client_G,Healthcare,LinkedIn,Reel,Tutorial,Saturday,9 AM,2400,4025,81,61,192,71,2140,356.29,169,11,0.0,1156.86,32
-Client_A,Tech,YouTube,Image,Industry News,Thursday,12 AM,35138,73361,2759,636,2803,1069,35825,8650.74,1786,84,0.0,12534.37,25
-Client_G,Healthcare,YouTube,Video,Industry News,Sunday,12 PM,28183,36126,1378,202,972,222,22364,3379.14,981,28,0.0,2883.11,21
-Client_H,Tech,Facebook,Video,Tutorial,Monday,9 PM,6525,10788,304,140,257,63,7436,960.65,533,34,0.0,4096.38,27
-Client_G,Finance,Instagram,Video,Product Education,Monday,6 PM,9859,16210,1638,297,283,949,9392,2192.31,345,8,327.93,1179.92,25
-Client_C,Finance,Instagram,Carousel,Promo/Offer,Thursday,9 PM,5835,8792,623,114,183,412,0,0.0,305,10,30.91,1042.31,24
-Client_D,Tech,Instagram,Text,Promo/Offer,Sunday,9 AM,29873,46186,4583,509,1145,1013,0,0.0,786,25,306.94,3511.53,16
-Client_C,Healthcare,LinkedIn,Carousel,Promo/Offer,Wednesday,9 PM,2797,5807,237,122,238,106,0,0.0,248,23,0.0,2121.96,48
-Client_G,Healthcare,YouTube,Reel,Behind the Scenes,Saturday,12 AM,19488,29597,472,288,965,315,21893,2411.45,924,63,0.0,9074.01,34
-Client_G,Food & Beverage,TikTok,Video,Industry News,Thursday,12 PM,11770,21735,2375,170,532,515,11028,2037.25,610,44,0.0,4099.54,39
-Client_I,Fashion,YouTube,Carousel,Behind the Scenes,Wednesday,9 AM,117792,307730,8972,2167,8657,2658,235736,37815.79,10236,438,499.79,51401.71,23
-Client_E,Finance,LinkedIn,Video,Tutorial,Thursday,9 AM,12969,22821,498,235,1361,622,14179,2365.15,1063,71,170.2,6655.07,36
-Client_G,Healthcare,Facebook,Text,Promo/Offer,Saturday,12 AM,2948,5959,212,77,89,73,0,0.0,179,11,0.0,1256.0,31
-Client_A,Healthcare,Instagram,Reel,Product Education,Sunday,9 AM,14409,29547,1929,430,331,1129,22856,5315.17,879,18,92.49,2110.59,19
-Client_A,Tech,TikTok,Image,Promo/Offer,Wednesday,9 AM,33800,63342,7200,458,755,1537,30199,4689.64,2182,78,0.0,8407.05,24
-Client_G,Food & Beverage,TikTok,Carousel,Industry News,Wednesday,12 AM,8110,16692,943,97,351,587,6739,567.94,417,19,0.0,2563.22,29
-Client_B,Healthcare,Instagram,Carousel,Industry News,Sunday,12 AM,63058,94772,10704,1794,1010,4031,0,0.0,1841,143,464.28,17316.23,37
-Client_B,Finance,Facebook,Video,Industry News,Friday,6 PM,27321,64534,2514,357,2531,807,37096,8077.1,2272,150,494.47,22026.01,33
-Client_F,Tech,LinkedIn,Text,Tutorial,Tuesday,3 PM,4868,9150,214,221,566,204,0,0.0,251,14,0.0,1817.44,37
-Client_C,Food & Beverage,LinkedIn,Image,Product Education,Monday,9 AM,4789,10289,383,124,519,217,0,0.0,284,23,61.9,2801.05,38
-Client_G,Tech,LinkedIn,Text,Tutorial,Sunday,9 AM,6687,10221,327,191,332,203,0,0.0,384,30,86.64,2561.53,36
-Client_D,Food & Beverage,TikTok,Video,Industry News,Thursday,9 AM,36343,92940,9878,1601,1551,3083,69129,16925.9,1308,51,317.69,7461.79,22
-Client_H,Finance,Facebook,Text,Behind the Scenes,Wednesday,12 AM,13663,31190,1292,218,1184,326,0,0.0,1712,52,154.54,6954.13,19
-Client_H,Fashion,YouTube,Image,Product Education,Sunday,6 PM,49638,83632,2251,918,1963,891,52930,8303.31,3153,227,93.99,24806.8,27
-Client_F,Healthcare,TikTok,Reel,Product Education,Sunday,12 PM,14412,26124,2485,260,766,1198,18769,1336.14,338,11,0.0,1455.08,26
-Client_J,Healthcare,Facebook,Text,Behind the Scenes,Thursday,6 PM,3956,8694,189,115,109,163,0,0.0,407,16,0.0,1664.23,21
-Client_I,Food & Beverage,LinkedIn,Text,Product Education,Thursday,12 AM,3901,5852,143,137,327,157,0,0.0,175,19,0.0,1844.4,45
-Client_I,Fashion,LinkedIn,Video,Tutorial,Thursday,12 PM,5622,7794,279,148,509,192,4456,226.77,245,16,0.0,2068.21,32
-Client_J,Tech,TikTok,Carousel,Behind the Scenes,Wednesday,12 PM,23667,44273,5207,482,786,1440,19732,2375.67,1050,31,0.0,3941.69,21
-Client_J,Healthcare,Instagram,Carousel,Behind the Scenes,Monday,12 PM,18170,33401,3064,410,616,1435,0,0.0,872,65,206.46,9434.66,33
-Client_I,Fashion,YouTube,Image,Industry News,Tuesday,3 PM,29011,59922,1760,636,1289,474,39622,5223.24,1483,92,0.0,10218.41,24
-Client_B,Healthcare,Instagram,Carousel,Behind the Scenes,Monday,3 PM,5768,7891,804,52,165,399,0,0.0,105,6,0.0,825.78,30
-Client_I,Tech,YouTube,Video,Industry News,Thursday,9 AM,16869,37100,888,554,859,640,26350,2566.21,1273,70,0.0,7318.09,31
-Client_G,Fashion,TikTok,Carousel,Industry News,Sunday,12 PM,9995,17314,1069,235,274,1024,13521,2067.13,640,44,0.0,3937.61,37
-Client_A,Finance,Facebook,Carousel,Industry News,Tuesday,12 AM,3550,6963,205,63,125,95,0,0.0,268,15,0.0,2124.13,23
-Client_G,Healthcare,LinkedIn,Image,Tutorial,Thursday,3 PM,3496,8641,392,223,553,206,0,0.0,319,34,486.63,4683.14,52
-Client_E,Finance,LinkedIn,Image,Promo/Offer,Friday,12 PM,4991,10451,228,107,663,235,0,0.0,552,32,0.0,3582.6,37
-Client_D,Fashion,LinkedIn,Carousel,Behind the Scenes,Monday,12 AM,4349,6835,181,163,288,122,0,0.0,218,19,0.0,2455.92,35
-Client_D,Food & Beverage,Instagram,Carousel,Promo/Offer,Tuesday,9 PM,7467,14154,1686,85,178,522,0,0.0,304,19,0.0,1656.23,31
-Client_F,Finance,Facebook,Text,Industry News,Saturday,12 AM,1381,2435,40,30,39,25,0,0.0,128,7,0.0,776.77,26
-Client_B,Tech,Facebook,Reel,Promo/Offer,Saturday,6 PM,14179,24720,330,273,692,328,17590,3308.59,1246,74,152.94,7482.54,34
-Client_J,Healthcare,Facebook,Text,Behind the Scenes,Saturday,9 AM,2454,3221,108,47,126,41,0,0.0,170,4,0.0,561.03,27
-Client_G,Finance,TikTok,Carousel,Tutorial,Sunday,9 AM,32301,47261,5501,741,743,1697,33406,4500.29,1042,60,462.84,7058.15,28
-Client_E,Tech,LinkedIn,Reel,Promo/Offer,Tuesday,12 PM,6376,11390,523,213,483,260,8899,869.68,368,38,0.0,3348.52,49
-Client_J,Tech,LinkedIn,Carousel,Product Education,Monday,12 AM,2456,3349,137,44,197,85,0,0.0,96,9,0.0,889.32,39
-Client_A,Finance,YouTube,Image,Promo/Offer,Monday,3 PM,25113,42595,520,279,639,762,30213,6914.36,1287,34,0.0,4483.06,11
-Client_A,Tech,Facebook,Reel,Tutorial,Wednesday,6 PM,10660,27649,1066,206,462,410,21188,2415.16,1376,74,405.5,6538.5,33
-Client_A,Fashion,Facebook,Video,Product Education,Thursday,9 AM,11168,24138,682,310,452,254,16795,1654.59,870,68,61.47,10189.47,32
-Client_I,Fashion,Facebook,Reel,Tutorial,Monday,12 PM,6485,13226,635,178,393,66,9137,646.81,540,18,0.0,2059.96,18
-Client_C,Finance,Instagram,Reel,Industry News,Sunday,9 PM,9471,14893,833,257,188,354,6402,1047.14,343,26,0.0,2510.92,32
-Client_F,Food & Beverage,LinkedIn,Image,Tutorial,Wednesday,12 PM,1308,1747,42,28,83,21,0,0.0,50,3,0.0,401.77,32
-Client_E,Food & Beverage,LinkedIn,Reel,Product Education,Tuesday,12 AM,17628,40193,1330,687,1604,475,24332,4512.05,1318,144,421.24,11833.31,47
-Client_H,Healthcare,TikTok,Carousel,Product Education,Thursday,9 AM,8129,10256,672,156,184,286,7948,530.99,282,21,0.0,1790.23,30
-Client_D,Food & Beverage,Facebook,Reel,Behind the Scenes,Monday,9 AM,3507,7449,290,69,160,92,4034,934.52,247,11,0.0,994.45,28
-Client_J,Healthcare,Facebook,Image,Tutorial,Thursday,9 PM,7868,13202,599,171,381,170,0,0.0,644,51,115.74,6871.44,38
-Client_H,Healthcare,YouTube,Image,Promo/Offer,Friday,3 PM,16098,19737,220,258,363,338,11618,1411.43,543,18,0.0,1641.13,17
-Client_D,Finance,TikTok,Reel,Industry News,Friday,6 PM,45587,114185,8251,1584,1961,5654,77803,9362.54,3086,88,133.54,12881.95,24
-Client_I,Finance,Facebook,Text,Product Education,Monday,9 AM,2502,3052,71,25,104,43,0,0.0,92,6,0.0,844.65,25
-Client_A,Fashion,TikTok,Carousel,Product Education,Sunday,9 PM,28111,44235,3436,311,709,1063,20480,4909.85,1493,115,0.0,14425.9,32
-Client_I,Healthcare,LinkedIn,Carousel,Promo/Offer,Sunday,12 PM,15598,35250,2042,1053,1609,1021,0,0.0,1901,98,369.84,11972.39,40
-Client_D,Healthcare,Instagram,Text,Industry News,Wednesday,12 AM,15967,41956,2358,767,955,2028,0,0.0,981,35,444.95,3411.38,20
-Client_F,Finance,Instagram,Reel,Product Education,Thursday,6 PM,10540,21971,1680,267,264,919,16382,2951.94,672,19,0.0,1618.03,16
-Client_E,Tech,LinkedIn,Image,Product Education,Monday,3 PM,17511,28742,1699,800,1995,481,0,0.0,1326,100,472.08,12575.45,47
-Client_G,Fashion,Instagram,Reel,Behind the Scenes,Tuesday,12 PM,13148,25270,1732,145,372,789,15887,3462.9,369,15,0.0,1648.99,20
-Client_J,Food & Beverage,Facebook,Reel,Product Education,Tuesday,12 PM,17092,34313,989,391,615,632,19044,2365.34,1250,38,396.74,3158.68,22
-Client_H,Finance,Facebook,Image,Promo/Offer,Monday,12 PM,1077,1662,81,22,44,23,0,0.0,82,3,0.0,352.46,27
-Client_J,Fashion,YouTube,Image,Product Education,Thursday,12 AM,8598,18059,670,227,245,258,8472,2091.51,707,48,0.0,4263.98,32
-Client_B,Food & Beverage,Facebook,Carousel,Promo/Offer,Wednesday,3 PM,874,1535,67,7,57,19,0,0.0,70,3,0.0,404.15,23
-Client_G,Fashion,Facebook,Video,Promo/Offer,Friday,9 AM,7379,11364,269,112,244,126,7313,420.45,377,10,277.1,1226.06,19
-Client_A,Food & Beverage,LinkedIn,Carousel,Product Education,Saturday,6 PM,3128,3816,122,91,189,59,0,0.0,106,10,0.0,894.07,44
-Client_F,Finance,YouTube,Video,Product Education,Tuesday,6 PM,13898,22336,684,288,261,236,9520,1827.02,493,32,0.0,3734.4,31
-Client_A,Fashion,Facebook,Carousel,Product Education,Tuesday,9 AM,14445,26276,750,310,990,287,0,0.0,847,41,196.81,4560.32,28
-Client_J,Healthcare,LinkedIn,Image,Industry News,Sunday,3 PM,4471,8416,493,198,470,228,0,0.0,278,20,294.68,1628.07,44
-Client_A,Food & Beverage,Facebook,Carousel,Promo/Offer,Sunday,9 AM,12273,29703,1060,252,632,337,0,0.0,967,46,484.17,5860.57,28
-Client_G,Healthcare,Instagram,Reel,Promo/Offer,Saturday,3 PM,20380,40723,2218,729,928,2424,20543,3948.75,1497,56,71.89,5067.72,25
-Client_A,Healthcare,YouTube,Image,Industry News,Saturday,9 AM,25534,37264,951,399,1164,206,17736,3464.02,621,32,0.0,4318.17,29
-Client_F,Healthcare,LinkedIn,Carousel,Promo/Offer,Tuesday,3 PM,1283,2490,105,69,169,70,0,0.0,111,7,0.0,669.43,38
-Client_G,Finance,LinkedIn,Image,Promo/Offer,Wednesday,6 PM,1446,2988,172,59,195,34,0,0.0,152,11,0.0,1109.73,36
-Client_C,Fashion,Facebook,Image,Tutorial,Friday,6 PM,2169,4155,122,47,63,60,0,0.0,104,3,0.0,399.85,14
-Client_J,Fashion,YouTube,Reel,Industry News,Friday,6 PM,35447,82049,1474,674,855,869,60165,5301.46,2486,143,38.11,13930.72,25
-Client_E,Fashion,Instagram,Text,Promo/Offer,Friday,3 PM,5477,6822,558,78,139,278,0,0.0,208,5,0.0,748.65,23
-Client_F,Fashion,Facebook,Text,Product Education,Tuesday,12 PM,1948,2380,35,20,80,37,0,0.0,105,6,0.0,741.72,34
-Client_A,Tech,Instagram,Reel,Product Education,Thursday,6 PM,9787,14217,915,160,144,674,6261,964.58,407,25,0.0,2732.95,27
-Client_I,Healthcare,Instagram,Image,Product Education,Sunday,9 AM,33140,54856,3517,306,872,2640,0,0.0,1365,44,271.11,6394.02,22
-Client_D,Tech,Instagram,Reel,Product Education,Sunday,9 PM,12149,15673,1577,132,236,376,12467,1361.45,375,9,0.0,830.06,14
-Client_E,Finance,LinkedIn,Text,Product Education,Monday,9 AM,1924,4172,156,49,271,93,0,0.0,206,12,191.61,1296.65,38
-Client_E,Food & Beverage,YouTube,Text,Industry News,Monday,12 PM,46006,113348,3321,1259,2623,1534,80665,13896.3,4066,295,457.39,38618.3,30
-Client_H,Food & Beverage,Instagram,Text,Tutorial,Monday,9 AM,6675,8092,701,67,198,402,0,0.0,312,22,0.0,2559.41,41
-Client_B,Food & Beverage,Facebook,Text,Behind the Scenes,Saturday,12 AM,3138,6358,219,63,241,32,0,0.0,248,12,0.0,1098.94,29
-Client_F,Fashion,LinkedIn,Image,Product Education,Friday,12 PM,4845,6952,361,131,446,131,0,0.0,198,15,0.0,1886.04,35
-Client_G,Food & Beverage,Instagram,Video,Promo/Offer,Monday,9 AM,14103,25914,2315,262,495,1196,18920,4035.97,915,36,0.0,4813.89,31
-Client_H,Finance,YouTube,Reel,Product Education,Sunday,12 AM,9823,15276,641,92,324,201,11590,1720.93,529,34,0.0,3693.92,29
-Client_J,Fashion,Facebook,Reel,Tutorial,Tuesday,6 PM,3135,4099,192,52,113,71,2378,432.06,220,6,0.0,689.51,26
-Client_A,Healthcare,YouTube,Video,Tutorial,Friday,12 PM,90737,218075,7468,2003,7947,2143,140352,26456.79,3804,166,335.61,17264.02,21
-Client_H,Fashion,Facebook,Text,Promo/Offer,Saturday,12 AM,6045,11494,442,80,333,218,0,0.0,502,18,0.0,1875.07,29
-Client_C,Fashion,TikTok,Video,Behind the Scenes,Saturday,9 AM,23734,42313,4218,550,1179,1987,31776,4273.15,439,11,0.0,1173.27,16
-Client_A,Fashion,LinkedIn,Carousel,Behind the Scenes,Saturday,3 PM,13006,29458,627,805,1004,774,0,0.0,1389,141,381.73,18607.61,49
-Client_G,Fashion,TikTok,Image,Product Education,Thursday,6 PM,118890,306557,15606,5123,6870,9213,229319,49532.15,11448,712,285.02,89238.0,36
-Client_I,Healthcare,Facebook,Carousel,Behind the Scenes,Thursday,12 PM,971,1333,33,8,35,15,0,0.0,56,1,0.0,103.14,14
-Client_A,Fashion,LinkedIn,Video,Product Education,Sunday,12 AM,20533,43662,1428,496,1630,628,26286,3500.93,1794,99,396.34,9452.9,28
-Client_F,Finance,LinkedIn,Image,Industry News,Sunday,9 PM,4796,8447,388,125,370,103,0,0.0,373,39,0.0,3785.65,42
-Client_F,Food & Beverage,Instagram,Text,Behind the Scenes,Friday,12 AM,5371,9221,793,87,181,372,0,0.0,272,10,0.0,857.64,21
-Client_C,Healthcare,TikTok,Reel,Product Education,Tuesday,12 AM,51931,99852,9904,1467,2546,5896,77475,15446.82,1459,69,278.12,7122.19,25
-Client_B,Tech,Facebook,Image,Promo/Offer,Monday,9 PM,3852,6192,162,38,134,60,0,0.0,155,9,0.0,759.84,29
-Client_A,Tech,LinkedIn,Video,Product Education,Wednesday,12 AM,4332,6417,226,84,200,169,3131,624.17,313,31,0.0,3120.1,50
-Client_C,Finance,LinkedIn,Reel,Promo/Offer,Sunday,9 PM,1408,1696,70,42,71,49,1291,153.33,63,5,0.0,579.39,36
-Client_C,Fashion,TikTok,Image,Industry News,Monday,12 PM,37677,77290,9244,723,1622,2971,32998,2298.0,2455,120,0.0,12379.15,27
-Client_D,Tech,LinkedIn,Video,Product Education,Tuesday,3 PM,24616,53094,2262,985,2264,917,21340,2117.68,1680,158,300.4,17463.53,42
-Client_C,Finance,YouTube,Text,Tutorial,Wednesday,3 PM,21390,29427,1285,305,417,526,14869,3379.24,361,8,0.0,650.43,17
-Client_A,Healthcare,TikTok,Text,Promo/Offer,Tuesday,9 AM,20864,43688,4184,802,779,1133,27778,6150.96,612,30,0.0,2590.16,26
-Client_I,Tech,Facebook,Video,Industry News,Sunday,9 PM,2258,3114,113,30,99,60,1692,158.65,123,2,0.0,211.72,13
-Client_D,Healthcare,LinkedIn,Text,Tutorial,Thursday,9 AM,984,1499,61,22,95,39,0,0.0,61,3,0.0,377.27,33
-Client_J,Tech,TikTok,Image,Tutorial,Tuesday,9 PM,24109,49850,4174,353,998,2201,23242,1520.44,1460,47,0.0,4374.92,23
-Client_J,Tech,Facebook,Text,Behind the Scenes,Saturday,9 AM,6657,11177,401,70,193,124,0,0.0,478,13,0.0,1506.5,23
-Client_C,Tech,Facebook,Image,Industry News,Friday,6 PM,1050,2024,96,19,57,16,0,0.0,79,2,0.0,217.51,17
-Client_J,Fashion,TikTok,Video,Behind the Scenes,Tuesday,12 AM,80079,167903,9949,3129,3434,3469,113124,24355.92,4729,144,201.54,20608.21,25
-Client_A,Healthcare,TikTok,Reel,Product Education,Thursday,12 AM,61343,128684,12546,2332,2369,4794,87383,11865.85,4909,240,470.11,32113.68,30
-Client_J,Healthcare,Instagram,Text,Industry News,Wednesday,6 PM,6761,8679,764,140,87,263,0,0.0,88,4,0.0,465.53,24
-Client_D,Finance,YouTube,Image,Product Education,Tuesday,6 PM,21798,44794,1103,562,1362,409,25321,5235.31,1096,46,0.0,5466.81,21
-Client_E,Healthcare,LinkedIn,Text,Industry News,Sunday,12 AM,1621,2669,70,44,122,38,0,0.0,110,10,0.0,1294.75,39
-Client_G,Tech,Instagram,Carousel,Tutorial,Friday,6 PM,5497,8354,642,107,186,496,0,0.0,261,14,38.12,2046.8,29
-Client_H,Food & Beverage,Instagram,Carousel,Promo/Offer,Wednesday,12 PM,2839,4856,451,71,83,228,0,0.0,190,4,0.0,397.26,23
-Client_F,Food & Beverage,YouTube,Video,Industry News,Friday,9 AM,8463,14806,479,194,302,203,7262,1761.84,350,15,0.0,1204.88,19
-Client_G,Healthcare,Instagram,Video,Product Education,Friday,3 PM,8923,17872,1989,275,384,938,14054,2285.65,591,38,0.0,5596.9,38
-Client_H,Healthcare,Instagram,Text,Product Education,Wednesday,9 AM,8711,19113,1263,243,556,623,0,0.0,196,13,0.0,1265.91,27
-Client_G,Finance,Instagram,Video,Industry News,Thursday,3 PM,33059,70230,8084,598,1737,1938,34891,3596.6,1185,83,378.16,11499.1,33
-Client_C,Tech,Instagram,Reel,Tutorial,Friday,9 AM,48870,115889,13080,1057,2490,6401,54832,11122.81,2935,128,171.4,16961.52,26
-Client_A,Healthcare,YouTube,Text,Promo/Offer,Monday,9 PM,92323,210291,7976,1076,6450,2502,101844,16926.64,4155,235,488.72,23072.08,29
-Client_E,Fashion,LinkedIn,Text,Promo/Offer,Wednesday,3 PM,2806,3957,138,53,162,107,0,0.0,114,9,0.0,864.0,33
-Client_E,Fashion,TikTok,Text,Tutorial,Tuesday,12 PM,13710,16585,985,215,375,924,8728,1285.84,290,20,0.0,1666.79,29
-Client_C,Tech,Facebook,Image,Tutorial,Sunday,12 AM,6869,12498,590,77,132,110,0,0.0,637,49,288.97,4602.43,39
-Client_I,Fashion,LinkedIn,Image,Behind the Scenes,Saturday,9 PM,28940,56703,2185,1293,3670,1651,0,0.0,2997,225,314.56,27643.88,44
-Client_B,Tech,Facebook,Image,Industry News,Wednesday,3 PM,23918,51997,2144,530,1686,992,0,0.0,2002,60,446.09,8387.69,19
-Client_D,Finance,Instagram,Carousel,Industry News,Thursday,9 AM,2942,6115,317,38,154,219,0,0.0,109,3,0.0,377.51,20
-Client_E,Fashion,Facebook,Image,Tutorial,Saturday,12 PM,6489,10352,482,141,248,185,0,0.0,549,29,191.28,2594.28,34
-Client_C,Healthcare,TikTok,Text,Promo/Offer,Thursday,9 PM,20778,32147,3418,286,556,1211,16762,838.41,1107,78,0.0,8117.61,38
-Client_I,Tech,YouTube,Text,Behind the Scenes,Monday,6 PM,21229,42389,743,317,979,772,29077,5210.54,1477,49,0.0,4191.69,25
-Client_D,Healthcare,TikTok,Image,Behind the Scenes,Saturday,12 AM,25200,40645,2551,579,924,1283,20682,3610.06,635,13,0.0,1085.17,20
-Client_A,Fashion,Instagram,Image,Behind the Scenes,Tuesday,12 AM,50050,84617,6256,1689,2199,2746,0,0.0,2023,136,256.92,14023.97,31
-Client_A,Finance,YouTube,Reel,Promo/Offer,Thursday,12 PM,16494,25154,1232,371,541,395,12548,3123.29,401,25,26.06,2164.43,33
-Client_D,Food & Beverage,YouTube,Image,Behind the Scenes,Tuesday,12 AM,24590,50711,1113,591,586,527,40026,3890.25,1167,24,250.99,3254.58,17
-Client_B,Food & Beverage,Facebook,Reel,Product Education,Friday,12 AM,4724,6400,127,53,195,79,5042,1018.04,171,7,0.0,635.42,25
-Client_B,Fashion,YouTube,Carousel,Behind the Scenes,Friday,12 AM,116019,227106,5524,2237,8393,1594,130585,14226.31,7020,220,350.84,20474.05,20
-Client_F,Food & Beverage,LinkedIn,Video,Promo/Offer,Tuesday,9 AM,12384,21589,432,295,974,491,8797,1947.36,1042,67,196.21,8741.51,40
-Client_I,Food & Beverage,Facebook,Video,Tutorial,Sunday,9 PM,1841,2803,40,37,33,36,1266,284.47,87,4,0.0,347.65,26
-Client_G,Food & Beverage,TikTok,Video,Promo/Offer,Wednesday,9 AM,84899,196287,18824,2359,5229,11215,128679,15722.67,6340,465,462.1,63956.96,34
-Client_J,Finance,TikTok,Reel,Product Education,Sunday,3 PM,41640,107651,9388,939,2209,2968,69987,6003.46,3496,157,368.08,13719.6,32
-Client_J,Finance,YouTube,Text,Product Education,Tuesday,12 PM,132518,246181,6824,3671,4789,2531,130441,16219.54,8105,371,499.25,48530.78,28
-Client_D,Healthcare,TikTok,Carousel,Tutorial,Sunday,9 PM,12578,20783,1039,108,326,444,9436,2152.02,211,16,0.0,1520.6,30
-Client_A,Finance,TikTok,Video,Promo/Offer,Friday,9 PM,20848,39766,4464,377,601,1192,24980,4092.05,657,16,147.19,1643.66,21
-Client_C,Food & Beverage,TikTok,Reel,Promo/Offer,Saturday,3 PM,9982,19144,1990,215,504,649,14303,3203.26,321,18,46.84,2198.9,25
-Client_G,Tech,LinkedIn,Video,Product Education,Wednesday,9 PM,9961,22564,1351,485,1356,663,9838,1341.78,1096,64,343.34,6626.03,40
-Client_J,Tech,TikTok,Text,Behind the Scenes,Monday,6 PM,29233,55480,4641,752,993,1549,34645,8641.01,1427,49,0.0,4833.26,23
-Client_F,Healthcare,Instagram,Reel,Tutorial,Thursday,3 PM,6751,10427,1083,180,177,279,7519,1313.09,242,18,0.0,1734.2,40
-Client_F,Fashion,Instagram,Reel,Product Education,Tuesday,9 PM,32155,77608,4484,631,811,2949,47744,4333.26,1994,70,353.02,7966.83,18
-Client_A,Food & Beverage,TikTok,Video,Product Education,Wednesday,12 PM,6366,12663,680,137,128,584,6439,1419.26,377,27,0.0,2196.06,38
-Client_G,Fashion,YouTube,Video,Product Education,Wednesday,6 PM,34825,48281,1367,360,513,912,29536,3447.26,1052,30,0.0,3128.24,16
-Client_F,Finance,Facebook,Video,Behind the Scenes,Sunday,9 AM,3005,6281,70,40,115,83,4766,864.49,173,7,0.0,1030.7,24
-Client_D,Food & Beverage,Facebook,Video,Industry News,Thursday,3 PM,3131,4169,138,26,66,63,2815,646.69,217,9,0.0,1292.67,22
-Client_J,Fashion,LinkedIn,Reel,Promo/Offer,Friday,12 AM,2409,5225,171,83,357,153,3648,781.91,230,21,34.15,1903.38,44
-Client_B,Fashion,Facebook,Reel,Promo/Offer,Friday,3 PM,5497,8587,353,83,303,60,5665,491.7,314,15,58.15,1371.98,24
-Client_A,Food & Beverage,Instagram,Image,Tutorial,Tuesday,12 AM,5871,7433,884,73,147,406,0,0.0,176,6,0.0,650.04,21
-Client_J,Food & Beverage,LinkedIn,Text,Promo/Offer,Saturday,9 PM,4941,10256,418,111,646,195,0,0.0,562,45,0.0,4846.18,38
-Client_I,Food & Beverage,TikTok,Reel,Industry News,Wednesday,6 PM,41613,92392,6523,1714,2198,5244,54089,9693.85,1174,58,99.91,5369.87,32
-Client_I,Fashion,YouTube,Text,Behind the Scenes,Thursday,9 AM,14923,31287,1417,359,617,198,21418,1773.38,1001,25,0.0,3235.9,22
-Client_F,Tech,TikTok,Text,Promo/Offer,Friday,12 PM,69832,100847,11193,722,1335,5496,71365,4300.6,1940,123,180.89,18113.92,31
-Client_C,Tech,Facebook,Carousel,Product Education,Friday,3 PM,826,1697,17,18,29,30,0,0.0,66,2,0.0,171.12,23
-Client_A,Fashion,TikTok,Image,Promo/Offer,Saturday,9 PM,13542,18258,959,320,426,988,9482,2219.52,209,9,0.0,832.3,30
-Client_E,Healthcare,TikTok,Video,Promo/Offer,Tuesday,6 PM,22630,27967,2030,458,738,1563,20620,1298.75,674,18,0.0,2522.85,23
-Client_I,Food & Beverage,TikTok,Carousel,Industry News,Friday,9 AM,8825,19232,1079,323,424,941,13130,1777.94,681,24,0.0,2886.24,30
-Client_F,Fashion,TikTok,Video,Tutorial,Friday,12 AM,29742,41041,4087,219,411,2428,26684,1963.55,1454,98,0.0,14693.05,36
-Client_A,Finance,LinkedIn,Video,Industry News,Monday,12 AM,6104,10256,430,170,354,259,5727,937.99,551,55,164.14,5146.96,47
-Client_H,Food & Beverage,Instagram,Carousel,Tutorial,Tuesday,12 AM,54807,114201,9019,1083,3049,5676,0,0.0,3625,141,396.31,16569.19,25
-Client_J,Finance,LinkedIn,Reel,Industry News,Wednesday,9 AM,3912,7145,306,195,384,127,5005,956.22,246,12,0.0,1307.65,33
-Client_D,Finance,YouTube,Image,Industry News,Friday,3 PM,9069,18001,837,176,193,209,10800,950.86,678,43,0.0,5016.12,29
-Client_C,Tech,TikTok,Carousel,Industry News,Saturday,9 AM,72188,172479,9155,1724,4732,9300,130337,9204.47,5689,368,169.27,30019.09,33
-Client_D,Finance,Facebook,Carousel,Behind the Scenes,Wednesday,9 PM,6754,14179,206,85,379,274,0,0.0,585,30,95.6,2969.21,26
-Client_J,Fashion,Facebook,Reel,Behind the Scenes,Friday,3 PM,6743,8968,331,83,104,59,4229,715.65,383,26,0.0,3352.85,34
-Client_F,Finance,LinkedIn,Carousel,Promo/Offer,Monday,6 PM,1321,2645,63,66,147,42,0,0.0,103,11,0.0,990.67,52
-Client_E,Finance,YouTube,Carousel,Behind the Scenes,Sunday,3 PM,69086,103022,4515,1107,2107,951,62140,8148.87,3237,85,249.75,10109.09,14
-Client_E,Healthcare,YouTube,Text,Promo/Offer,Thursday,12 PM,37523,94772,4033,886,3177,1313,67755,10766.63,1619,96,183.54,8203.45,31
-Client_H,Tech,TikTok,Video,Tutorial,Wednesday,9 PM,12956,17829,978,295,468,434,9833,1463.73,531,13,0.0,1783.5,24
-Client_A,Fashion,Facebook,Text,Promo/Offer,Wednesday,6 PM,20151,44983,2092,420,1722,430,0,0.0,2450,99,293.73,8538.76,23
-Client_J,Healthcare,YouTube,Carousel,Behind the Scenes,Monday,3 PM,27286,32766,1610,174,605,217,18764,3152.97,942,59,0.0,6396.91,29
-Client_I,Fashion,Facebook,Text,Industry News,Tuesday,9 PM,5811,9066,195,46,124,164,0,0.0,402,11,0.0,1561.36,24
-Client_G,Fashion,Instagram,Carousel,Tutorial,Sunday,6 PM,19529,35606,2837,298,630,1880,0,0.0,809,16,0.0,1837.94,17
-Client_I,Finance,YouTube,Video,Promo/Offer,Wednesday,9 AM,22508,50540,1901,749,1614,360,40101,8251.74,1210,29,251.14,4126.53,13
-Client_D,Food & Beverage,Instagram,Video,Promo/Offer,Wednesday,9 PM,11239,22931,2600,236,381,985,18140,1975.87,344,21,237.94,2558.53,30
-Client_J,Finance,Instagram,Text,Promo/Offer,Tuesday,9 PM,3022,4508,234,27,56,177,0,0.0,151,5,0.0,615.53,21
-Client_E,Tech,Instagram,Video,Industry News,Friday,12 AM,33027,62186,4137,341,1277,1693,49352,12015.69,1732,120,395.61,16635.96,33
-Client_G,Fashion,YouTube,Carousel,Industry News,Friday,12 AM,18759,27470,332,268,667,328,21407,5019.77,467,28,0.0,3004.54,24
-Client_C,Healthcare,YouTube,Reel,Behind the Scenes,Sunday,6 PM,18767,40569,472,590,1181,761,23234,5427.66,1450,58,0.0,5724.38,19
-Client_E,Healthcare,YouTube,Text,Industry News,Saturday,12 AM,26919,46299,2302,235,477,449,19778,2615.64,1192,72,0.0,7531.64,25
-Client_E,Fashion,Instagram,Reel,Promo/Offer,Monday,9 AM,17456,35530,3363,634,440,1716,16058,2910.98,1314,70,0.0,10339.11,28
-Client_C,Finance,LinkedIn,Text,Product Education,Saturday,6 PM,3061,5792,294,90,354,87,0,0.0,155,11,0.0,1646.89,35
-Client_E,Fashion,YouTube,Reel,Tutorial,Tuesday,9 PM,106568,216176,4050,2627,8080,3166,95401,6161.37,5867,205,388.98,22798.41,23
-Client_C,Tech,Instagram,Text,Behind the Scenes,Tuesday,12 AM,12041,21368,2474,377,400,846,0,0.0,714,47,0.0,5537.02,31
-Client_G,Food & Beverage,Instagram,Video,Promo/Offer,Wednesday,3 PM,6684,12246,690,76,357,506,7149,1453.4,360,11,0.0,910.29,24
-Client_D,Finance,YouTube,Reel,Behind the Scenes,Thursday,9 AM,98549,157969,5326,1643,1878,1949,82632,12955.71,5533,259,365.47,38774.46,18
-Client_F,Tech,LinkedIn,Reel,Tutorial,Monday,12 PM,6587,12370,321,132,828,267,5648,1020.97,484,50,0.0,4160.31,53
-Client_C,Tech,Facebook,Reel,Behind the Scenes,Sunday,9 AM,31737,77588,1130,436,2208,1080,37324,4384.4,3885,249,412.39,26927.01,28
-Client_J,Healthcare,Facebook,Image,Industry News,Sunday,9 AM,5724,8858,335,126,205,117,0,0.0,232,6,219.27,835.89,22
-Client_G,Fashion,Instagram,Text,Product Education,Monday,9 AM,8092,15429,1077,187,398,736,0,0.0,213,6,0.0,593.8,23
-Client_G,Fashion,Facebook,Video,Product Education,Friday,12 PM,6721,8656,190,59,231,97,6878,1687.57,377,27,0.0,4025.02,36
-Client_D,Food & Beverage,Facebook,Image,Product Education,Tuesday,9 AM,1849,4009,68,45,45,60,0,0.0,134,6,0.0,620.4,24
-Client_A,Tech,Instagram,Video,Industry News,Tuesday,9 AM,46718,69763,6319,1288,1740,2564,34325,2472.31,1174,40,233.51,4355.27,21
-Client_G,Fashion,Instagram,Text,Promo/Offer,Thursday,9 AM,10979,23362,1801,338,569,594,0,0.0,917,29,0.0,2578.24,28
-Client_A,Finance,Facebook,Reel,Tutorial,Thursday,6 PM,4100,6530,272,70,242,125,4055,389.04,243,12,95.26,1684.25,26
-Client_J,Food & Beverage,YouTube,Image,Product Education,Saturday,6 PM,66477,130995,6268,1202,4839,2450,54715,13583.26,4192,210,465.19,23057.76,29
-Client_H,Tech,YouTube,Text,Industry News,Monday,9 PM,23809,44538,871,520,466,890,20697,2936.01,1207,66,192.03,9791.06,27
-Client_C,Food & Beverage,Facebook,Image,Tutorial,Saturday,12 AM,584,742,17,5,16,4,0,0.0,39,2,0.0,271.23,32
-Client_B,Healthcare,LinkedIn,Reel,Promo/Offer,Saturday,3 PM,778,1218,42,13,63,16,832,75.66,66,4,0.0,351.8,37
-Client_J,Fashion,Facebook,Image,Behind the Scenes,Wednesday,9 PM,17860,26608,826,313,832,182,0,0.0,1090,40,253.39,4938.66,28
-Client_B,Fashion,YouTube,Reel,Product Education,Thursday,12 PM,41591,58745,935,853,947,426,24031,3203.51,1790,135,73.77,15278.4,32
-Client_H,Tech,LinkedIn,Carousel,Product Education,Monday,12 PM,30291,58188,1923,1561,3367,1272,0,0.0,2231,152,330.1,13563.99,37
-Client_C,Finance,Facebook,Text,Behind the Scenes,Wednesday,9 AM,9096,18155,698,243,711,168,0,0.0,831,49,463.58,4446.45,30
-Client_B,Tech,LinkedIn,Video,Industry News,Thursday,3 PM,11742,23968,809,317,1236,418,12478,2920.94,890,71,172.13,6402.56,41
-Client_F,Fashion,Instagram,Video,Promo/Offer,Wednesday,12 AM,9478,14120,1675,190,182,606,10770,1490.8,433,27,0.0,3861.33,31
-Client_I,Tech,LinkedIn,Reel,Tutorial,Friday,12 PM,5482,8367,232,212,512,171,4001,266.94,422,38,0.0,5587.28,49
-Client_G,Fashion,YouTube,Image,Promo/Offer,Friday,9 PM,58985,110754,2745,942,2053,1173,87607,19699.34,1398,89,429.83,9887.49,26
-Client_H,Finance,Facebook,Text,Tutorial,Tuesday,9 PM,1033,1552,48,16,58,15,0,0.0,56,1,0.0,124.72,16
-Client_G,Fashion,TikTok,Text,Promo/Offer,Sunday,12 PM,14112,22321,1182,213,595,1184,13921,1986.39,241,4,0.0,393.55,21
-Client_H,Tech,LinkedIn,Text,Industry News,Thursday,12 AM,2843,5585,328,109,248,122,0,0.0,212,13,0.0,1664.18,30
-Client_F,Healthcare,TikTok,Reel,Behind the Scenes,Tuesday,9 PM,5937,9861,739,143,169,218,7711,460.68,184,10,0.0,853.78,24
-Client_C,Tech,TikTok,Carousel,Promo/Offer,Wednesday,3 PM,71192,159925,11932,1474,2037,4117,113790,15065.67,6017,179,276.52,17049.99,24
-Client_D,Fashion,TikTok,Video,Promo/Offer,Sunday,9 PM,34892,69874,7974,367,882,1723,37681,7091.95,990,46,0.0,6860.01,27
-Client_F,Fashion,LinkedIn,Reel,Product Education,Tuesday,12 PM,14814,26969,997,279,929,681,16011,2181.49,833,43,490.93,5425.96,32
-Client_A,Food & Beverage,Instagram,Image,Product Education,Monday,3 PM,2388,4733,304,48,64,265,0,0.0,60,4,0.0,583.72,35
-Client_F,Finance,Facebook,Video,Promo/Offer,Tuesday,9 PM,1992,4032,71,41,149,37,3182,221.9,126,6,124.16,777.26,25
-Client_J,Fashion,YouTube,Reel,Industry News,Sunday,3 PM,23672,40579,1641,413,972,394,24279,2968.11,756,47,0.0,4030.6,29
-Client_B,Food & Beverage,LinkedIn,Text,Promo/Offer,Saturday,3 PM,3682,5918,219,154,389,160,0,0.0,314,22,0.0,1779.69,47
-Client_H,Tech,YouTube,Text,Promo/Offer,Saturday,12 AM,9238,14732,723,98,541,237,8036,721.77,235,16,0.0,1732.8,28
-Client_G,Food & Beverage,LinkedIn,Video,Promo/Offer,Wednesday,12 AM,3560,6645,395,126,238,134,2982,440.94,212,22,0.0,1805.77,40
-Client_B,Food & Beverage,Instagram,Carousel,Tutorial,Friday,12 AM,9927,19723,2023,158,509,1000,0,0.0,588,29,56.73,2851.18,31
-Client_I,Healthcare,Instagram,Reel,Tutorial,Monday,6 PM,8678,13679,715,130,372,578,9334,1384.19,191,12,0.0,1369.46,26
-Client_J,Food & Beverage,TikTok,Video,Promo/Offer,Thursday,6 PM,95589,192515,22709,3786,3283,8601,101685,5656.68,2185,153,257.45,15976.47,38
-Client_A,Finance,YouTube,Reel,Tutorial,Wednesday,3 PM,74994,166379,5607,1339,1990,3103,89019,4801.9,3291,156,331.08,21907.98,26
-Client_I,Food & Beverage,LinkedIn,Reel,Tutorial,Friday,9 AM,2940,4675,244,78,266,56,2810,570.38,164,14,0.0,1476.07,42
-Client_D,Food & Beverage,Instagram,Video,Industry News,Wednesday,3 PM,2552,4526,424,61,110,263,2881,301.56,122,6,0.0,659.38,31
-Client_B,Finance,TikTok,Image,Tutorial,Saturday,9 PM,13435,21526,1759,113,293,1087,14666,3263.8,587,19,0.0,2799.62,25
-Client_E,Healthcare,TikTok,Text,Promo/Offer,Saturday,12 AM,13502,23653,2317,231,442,757,17316,1088.93,380,17,92.23,2340.22,30
-Client_C,Finance,TikTok,Carousel,Tutorial,Tuesday,9 AM,8691,12563,1036,184,235,532,5211,426.63,177,6,0.0,817.49,27
-Client_I,Fashion,Instagram,Text,Product Education,Monday,9 AM,10406,21510,1688,136,497,742,0,0.0,823,52,0.0,4671.64,29
-Client_J,Healthcare,Instagram,Video,Promo/Offer,Sunday,9 PM,6116,7891,821,126,210,256,5699,1132.91,300,9,0.0,787.29,23
-Client_E,Food & Beverage,YouTube,Image,Promo/Offer,Monday,6 PM,69059,174015,6492,2500,6331,3384,94872,18323.03,6028,128,223.42,18902.57,24
-Client_A,Tech,Facebook,Image,Promo/Offer,Thursday,3 PM,5643,10638,206,155,108,123,0,0.0,561,42,0.0,4244.61,32
-Client_E,Fashion,Facebook,Text,Behind the Scenes,Sunday,12 AM,29544,52232,1549,434,1974,838,0,0.0,1967,147,394.14,12793.07,32
-Client_E,Healthcare,Instagram,Image,Tutorial,Friday,12 AM,17424,31041,2946,218,801,1403,0,0.0,683,39,45.01,3976.46,27
-Client_B,Fashion,Facebook,Video,Industry News,Sunday,9 PM,6037,9172,361,121,280,81,6602,592.42,343,10,0.0,1413.47,25
-Client_D,Tech,Instagram,Video,Promo/Offer,Saturday,12 PM,5756,8048,497,71,149,290,3505,433.16,309,8,0.0,1042.41,22
-Client_H,Food & Beverage,Instagram,Carousel,Industry News,Tuesday,3 PM,7379,11674,752,185,309,334,0,0.0,183,5,0.0,677.36,14
-Client_E,Finance,Facebook,Video,Tutorial,Tuesday,3 PM,3548,5921,289,52,96,64,3370,571.01,161,8,0.0,669.18,22
-Client_H,Finance,TikTok,Video,Product Education,Monday,3 PM,67241,117811,13873,1049,2545,4993,70863,16728.3,4280,119,198.03,12163.25,28
-Client_G,Fashion,LinkedIn,Reel,Behind the Scenes,Monday,12 PM,7379,15014,856,334,977,235,10579,1087.01,516,53,0.0,5410.66,51
-Client_C,Healthcare,YouTube,Reel,Industry News,Tuesday,9 AM,37667,74072,1084,697,1840,1364,58926,9556.08,1757,46,244.22,5997.64,14
-Client_B,Finance,Instagram,Carousel,Behind the Scenes,Tuesday,12 PM,11668,20573,1334,339,207,1232,0,0.0,317,23,0.0,2236.31,35
-Client_B,Finance,Instagram,Image,Product Education,Thursday,3 PM,18305,25419,2089,366,498,1227,0,0.0,459,27,33.86,2782.62,25
-Client_J,Food & Beverage,LinkedIn,Video,Industry News,Tuesday,9 AM,15097,22868,806,670,848,411,17064,1157.58,1156,69,476.91,9284.95,34
-Client_C,Tech,LinkedIn,Text,Tutorial,Saturday,3 PM,4491,6600,249,145,268,117,0,0.0,182,13,115.94,1375.09,32
-Client_G,Food & Beverage,Instagram,Reel,Promo/Offer,Wednesday,6 PM,6007,11495,999,138,134,527,4962,1043.55,218,17,0.0,2174.33,34
-Client_D,Healthcare,YouTube,Image,Promo/Offer,Monday,9 PM,8760,15009,398,197,474,179,8137,1359.8,496,10,0.0,1318.36,19
-Client_C,Fashion,YouTube,Reel,Product Education,Thursday,12 AM,19116,36780,1029,521,744,629,26628,2455.47,454,35,0.0,3435.33,35
-Client_B,Food & Beverage,TikTok,Reel,Product Education,Thursday,9 AM,4721,7917,877,97,174,464,5125,1254.52,164,9,0.0,1154.88,33
-Client_E,Tech,Facebook,Carousel,Product Education,Tuesday,9 AM,3337,5460,86,74,192,47,0,0.0,224,5,250.94,669.4,16
-Client_H,Food & Beverage,Instagram,Reel,Industry News,Tuesday,12 AM,11019,18418,1675,322,393,516,7742,399.29,532,33,0.0,4902.61,34
-Client_J,Healthcare,TikTok,Image,Product Education,Thursday,6 PM,21039,40491,4589,239,592,2215,16504,2727.79,1076,38,0.0,4764.48,27
-Client_B,Food & Beverage,TikTok,Image,Tutorial,Saturday,6 PM,4911,9459,763,144,205,381,7271,1604.64,297,14,0.0,1985.51,30
-Client_G,Finance,YouTube,Carousel,Promo/Offer,Tuesday,3 PM,34282,54178,760,435,2156,608,26209,1557.07,571,41,310.76,4304.72,26
-Client_C,Healthcare,Instagram,Reel,Behind the Scenes,Thursday,9 AM,13734,22721,1701,204,626,496,10462,1967.14,578,34,183.36,4401.24,32
-Client_H,Tech,Instagram,Video,Promo/Offer,Sunday,9 AM,12823,16739,1857,157,219,944,9651,1459.03,535,13,0.0,1628.85,23
-Client_C,Tech,Facebook,Text,Tutorial,Sunday,9 AM,8052,15178,313,171,340,238,0,0.0,491,32,102.21,3746.42,28
-Client_C,Food & Beverage,YouTube,Text,Tutorial,Sunday,9 PM,19845,32596,1261,273,394,415,18275,3736.77,750,32,0.0,2643.09,25
-Client_C,Healthcare,Instagram,Video,Behind the Scenes,Thursday,6 PM,36288,81048,8744,583,1799,4539,45514,8136.8,2968,170,185.2,20956.43,36
-Client_F,Food & Beverage,Facebook,Image,Product Education,Monday,9 PM,3097,5942,183,60,97,77,0,0.0,204,8,0.0,995.98,16
-Client_A,Healthcare,TikTok,Image,Industry News,Sunday,3 PM,67353,102948,9665,1519,1127,3518,46316,5075.87,3305,155,199.03,23065.01,31
-Client_J,Healthcare,TikTok,Carousel,Behind the Scenes,Wednesday,3 PM,25407,48637,3274,843,1052,1610,26483,1843.15,1524,106,0.0,9088.05,29
-Client_G,Fashion,YouTube,Carousel,Tutorial,Monday,3 PM,29929,52644,2362,787,1531,724,35566,8520.33,1682,75,0.0,6854.92,28
-Client_C,Food & Beverage,YouTube,Carousel,Promo/Offer,Sunday,9 PM,18662,34661,1121,468,470,652,15394,1907.58,647,33,95.28,2911.98,22
-Client_F,Finance,LinkedIn,Text,Product Education,Sunday,12 PM,1852,3003,96,74,112,47,0,0.0,75,6,0.0,508.38,31
-Client_G,Food & Beverage,TikTok,Image,Promo/Offer,Thursday,3 PM,17190,33005,3410,387,634,1326,19130,4271.14,652,44,0.0,5566.67,34
-Client_G,Fashion,YouTube,Image,Promo/Offer,Monday,12 AM,29904,55200,2113,666,1870,749,34467,2576.63,1478,46,0.0,5672.23,24
-Client_A,Healthcare,TikTok,Carousel,Tutorial,Friday,9 AM,9506,16463,1140,289,437,464,10401,696.13,428,16,0.0,1939.56,26
-Client_A,Finance,YouTube,Carousel,Tutorial,Monday,9 PM,14672,18941,599,240,293,175,8744,2102.35,575,13,0.0,1914.62,13
-Client_A,Tech,LinkedIn,Text,Product Education,Wednesday,12 PM,6287,9166,513,201,362,101,0,0.0,294,23,0.0,2652.12,33
-Client_E,Tech,LinkedIn,Text,Promo/Offer,Thursday,9 AM,5073,9301,192,111,497,196,0,0.0,445,39,0.0,3462.81,47
-Client_G,Food & Beverage,Instagram,Video,Industry News,Sunday,12 PM,47605,78593,9218,1350,851,3317,61651,10736.27,2325,69,477.25,5810.65,26
-Client_E,Healthcare,LinkedIn,Text,Behind the Scenes,Sunday,12 AM,11006,22535,958,280,1032,360,0,0.0,657,54,374.81,5376.35,39
-Client_D,Healthcare,TikTok,Image,Behind the Scenes,Saturday,3 PM,39870,84416,9887,591,2387,2797,64907,11148.25,854,17,121.1,1566.51,21
-Client_H,Food & Beverage,TikTok,Reel,Product Education,Friday,9 AM,20936,32513,3508,537,440,1115,22070,1140.72,776,59,0.0,6556.11,34
-Client_A,Finance,LinkedIn,Carousel,Product Education,Sunday,9 PM,3351,4762,279,114,236,51,0,0.0,205,10,0.0,1488.98,37
-Client_G,Tech,LinkedIn,Video,Promo/Offer,Thursday,12 PM,3107,5486,233,61,192,62,2764,453.24,174,14,0.0,1886.61,34
-Client_A,Healthcare,TikTok,Image,Promo/Offer,Thursday,9 AM,114496,295961,23759,4499,4581,17699,173620,21232.75,9698,708,470.6,67768.61,36
-Client_G,Healthcare,YouTube,Image,Product Education,Thursday,12 PM,63019,133682,6566,1002,1635,1518,62268,6984.05,3847,99,373.97,11246.17,11
-Client_J,Finance,LinkedIn,Carousel,Product Education,Thursday,12 PM,3728,7536,222,141,406,86,0,0.0,210,16,0.0,1419.81,31
-Client_A,Food & Beverage,LinkedIn,Reel,Industry News,Monday,6 PM,3882,8462,358,100,382,134,5930,572.97,363,32,345.23,2583.76,43
-Client_H,Food & Beverage,TikTok,Video,Product Education,Wednesday,12 AM,9722,16377,1501,129,422,371,10305,1828.86,289,13,69.29,1699.41,27
-Client_C,Fashion,Facebook,Reel,Product Education,Tuesday,3 PM,22917,50390,1594,555,1213,362,26022,6350.78,2042,121,300.16,10904.77,27
-Client_I,Healthcare,Instagram,Text,Behind the Scenes,Tuesday,12 PM,5901,9096,897,90,200,539,0,0.0,248,19,0.0,2339.42,40
-Client_F,Fashion,Instagram,Text,Product Education,Thursday,12 PM,3044,5762,374,99,146,226,0,0.0,197,8,0.0,864.18,22
-Client_F,Tech,Instagram,Image,Product Education,Friday,9 AM,5557,7748,802,61,82,168,0,0.0,117,8,0.0,1042.55,30
-Client_I,Fashion,Facebook,Carousel,Product Education,Tuesday,3 PM,7479,16842,243,124,322,320,0,0.0,830,49,397.96,7148.18,34
-Client_G,Tech,Instagram,Carousel,Industry News,Sunday,12 PM,23771,52839,4994,729,1334,3003,0,0.0,1882,70,226.18,6327.98,26
-Client_A,Finance,Facebook,Video,Promo/Offer,Thursday,12 PM,1298,2584,43,32,94,27,1420,218.37,78,4,0.0,467.13,28
-Client_H,Food & Beverage,LinkedIn,Video,Tutorial,Saturday,9 PM,705,1476,43,25,69,21,683,149.23,48,2,0.0,265.23,25
-Client_H,Healthcare,LinkedIn,Carousel,Promo/Offer,Monday,6 PM,4923,8005,291,141,341,208,0,0.0,243,15,0.0,1877.62,33
-Client_B,Finance,TikTok,Video,Promo/Offer,Saturday,9 AM,22770,31614,2023,301,524,880,22958,4286.44,576,35,38.38,5245.09,31
-Client_E,Tech,LinkedIn,Image,Behind the Scenes,Sunday,6 PM,26215,61198,3645,890,3954,1776,0,0.0,2857,178,333.96,17152.19,43
-Client_I,Food & Beverage,YouTube,Image,Product Education,Wednesday,12 PM,70920,158235,5116,994,4323,1680,123002,6388.26,5429,380,235.99,39439.27,33
-Client_G,Food & Beverage,TikTok,Image,Behind the Scenes,Friday,9 AM,151770,388647,28416,5486,8573,17564,290232,71407.06,6267,272,477.27,31936.7,23
-Client_H,Tech,LinkedIn,Video,Tutorial,Saturday,3 PM,7931,17862,788,504,678,188,9901,902.76,602,49,416.71,5479.5,38
-Client_I,Tech,Facebook,Image,Tutorial,Thursday,12 PM,1676,2712,69,37,43,50,0,0.0,93,6,0.0,759.21,26
-Client_J,Healthcare,LinkedIn,Video,Industry News,Friday,12 AM,5841,7646,275,215,390,199,5747,816.31,323,30,50.71,3004.61,48
-Client_F,Finance,YouTube,Video,Industry News,Thursday,12 PM,12625,24407,1133,218,660,189,18995,1860.35,881,32,0.0,3966.91,21
-Client_B,Fashion,YouTube,Text,Promo/Offer,Monday,3 PM,11582,19740,521,107,320,147,8106,1441.03,597,28,0.0,2913.57,23
-Client_D,Food & Beverage,Instagram,Reel,Behind the Scenes,Monday,12 AM,3943,7683,420,147,114,322,3504,750.16,270,8,0.0,650.12,18
-Client_C,Finance,Instagram,Video,Tutorial,Tuesday,9 AM,5234,8065,422,124,115,379,5924,1257.68,235,14,124.0,1999.07,31
-Client_E,Food & Beverage,Instagram,Video,Product Education,Monday,6 PM,10182,17595,1399,138,294,1048,11746,1105.46,641,43,63.87,5939.66,33
-Client_C,Tech,YouTube,Video,Product Education,Sunday,3 PM,84907,139714,6644,1196,2293,951,65588,8554.5,2722,118,280.02,13229.49,17
-Client_E,Healthcare,LinkedIn,Reel,Product Education,Tuesday,6 PM,3287,5586,270,119,373,144,2797,192.85,194,17,0.0,1822.39,42
-Client_F,Fashion,LinkedIn,Text,Product Education,Wednesday,9 AM,22394,48955,2914,1367,2675,717,0,0.0,1677,158,301.98,21015.14,49
-Client_B,Tech,Facebook,Image,Tutorial,Wednesday,12 PM,10842,23897,1183,151,867,278,0,0.0,825,55,368.15,4552.49,33
-Client_E,Tech,Facebook,Image,Behind the Scenes,Tuesday,12 PM,5656,11977,503,164,199,184,0,0.0,486,15,0.0,1861.27,17
-Client_H,Tech,Facebook,Reel,Industry News,Tuesday,12 PM,1522,2661,48,25,60,33,1239,110.9,100,5,0.0,506.09,29
-Client_H,Fashion,LinkedIn,Text,Product Education,Wednesday,6 PM,4362,7159,353,185,449,180,0,0.0,183,13,0.0,1817.18,37
-Client_J,Healthcare,Facebook,Video,Industry News,Wednesday,6 PM,3964,5879,171,40,184,58,4505,229.02,298,19,0.0,2017.76,33
-Client_G,Food & Beverage,LinkedIn,Text,Tutorial,Wednesday,12 AM,1043,1292,45,24,48,27,0,0.0,42,4,0.0,522.23,44
-Client_H,Finance,Instagram,Text,Tutorial,Saturday,12 PM,27163,68891,3580,970,892,3212,0,0.0,2640,76,359.15,7396.25,26
-Client_C,Tech,Instagram,Reel,Tutorial,Thursday,12 AM,19324,24741,2754,380,458,658,14851,2326.26,905,49,0.0,6437.39,27
-Client_B,Healthcare,LinkedIn,Carousel,Behind the Scenes,Saturday,12 PM,14451,20565,490,377,960,523,0,0.0,692,52,256.03,4802.1,34
-Client_C,Fashion,YouTube,Carousel,Promo/Offer,Monday,6 PM,77195,120831,4877,1098,4478,1074,78628,13750.8,4356,130,107.71,13067.44,22
-Client_B,Finance,Instagram,Image,Product Education,Friday,12 PM,24202,54521,6371,306,1405,2541,0,0.0,890,60,147.72,6377.8,37
-Client_E,Food & Beverage,YouTube,Image,Promo/Offer,Thursday,3 PM,43232,76290,1865,1125,2160,837,57158,12074.86,769,55,135.01,5946.96,26
-Client_A,Healthcare,Instagram,Video,Behind the Scenes,Saturday,12 PM,7881,14865,1279,216,149,689,11546,1321.29,431,31,0.0,4584.03,35
-Client_H,Fashion,TikTok,Text,Tutorial,Saturday,9 PM,10080,21561,1796,140,517,998,11943,2047.45,676,48,0.0,6784.15,39
-Client_A,Fashion,YouTube,Reel,Behind the Scenes,Sunday,12 AM,38443,64076,3088,476,1680,783,29998,7164.78,1986,52,0.0,7775.84,14
-Client_C,Finance,YouTube,Image,Industry News,Saturday,3 PM,24328,45507,2134,589,1126,659,24260,2298.91,1241,93,0.0,7860.98,33
-Client_G,Food & Beverage,TikTok,Text,Industry News,Tuesday,3 PM,32563,50736,3205,350,1088,2926,26654,3359.44,1629,62,304.26,7520.86,24
-Client_G,Food & Beverage,LinkedIn,Image,Industry News,Friday,12 AM,1954,2362,77,33,98,62,0,0.0,107,6,0.0,599.02,37
-Client_A,Healthcare,LinkedIn,Image,Promo/Offer,Saturday,9 AM,3284,6261,332,109,364,124,0,0.0,340,23,0.0,3172.89,38
-Client_D,Tech,Facebook,Text,Tutorial,Wednesday,12 AM,13450,28065,1392,288,609,459,0,0.0,939,58,345.39,5432.07,33
-Client_G,Tech,Facebook,Image,Promo/Offer,Sunday,9 AM,18680,30438,658,379,503,218,0,0.0,1432,29,354.06,3793.69,21
-Client_B,Fashion,YouTube,Text,Industry News,Monday,9 AM,163765,272848,9823,3074,10666,3792,153230,8703.24,4699,231,490.53,29604.7,22
-Client_G,Tech,YouTube,Text,Behind the Scenes,Saturday,12 AM,92121,143432,5271,1538,1533,1813,90226,9450.72,4641,314,254.82,29100.5,31
-Client_G,Finance,TikTok,Carousel,Product Education,Wednesday,9 AM,76461,182436,15972,2332,3606,9575,115644,22290.36,6148,168,286.91,22295.14,29
-Client_B,Fashion,TikTok,Carousel,Product Education,Friday,6 PM,35897,53584,4789,1055,573,2896,32282,3961.39,1411,64,97.38,9354.62,23
-Client_D,Finance,Instagram,Video,Behind the Scenes,Saturday,9 PM,44295,90239,10808,1382,1823,3992,60013,3537.59,1001,28,457.18,3917.93,20
-Client_C,Healthcare,TikTok,Carousel,Promo/Offer,Wednesday,3 PM,10054,16307,1112,193,216,749,12685,2350.6,623,17,0.0,1602.48,27
-Client_E,Fashion,LinkedIn,Video,Promo/Offer,Friday,12 PM,6222,9434,331,145,376,276,5779,1079.49,350,24,0.0,2069.48,35
-Client_E,Fashion,Facebook,Image,Product Education,Monday,6 PM,3090,4032,68,53,77,64,0,0.0,160,8,0.0,1032.26,25
-Client_I,Finance,TikTok,Reel,Product Education,Tuesday,3 PM,15495,31084,3270,343,859,1307,19798,2015.68,951,59,0.0,7435.73,31
-Client_G,Healthcare,LinkedIn,Reel,Behind the Scenes,Saturday,12 PM,4250,5878,305,109,241,117,4565,1032.96,290,19,0.0,2661.04,36
-Client_G,Finance,Instagram,Reel,Product Education,Saturday,12 PM,3060,3847,341,74,105,152,2191,332.45,122,5,0.0,580.25,33
-Client_I,Tech,YouTube,Reel,Promo/Offer,Tuesday,12 AM,7961,15146,299,200,583,243,11391,1772.69,428,24,0.0,3540.61,33
-Client_I,Fashion,Facebook,Reel,Behind the Scenes,Sunday,12 PM,6204,7760,130,91,156,151,5685,1251.58,393,14,0.0,1593.46,22
-Client_D,Tech,TikTok,Text,Industry News,Wednesday,12 AM,34641,42796,3990,609,732,1691,22742,2746.75,434,31,0.0,2883.96,32
-Client_A,Tech,YouTube,Text,Industry News,Monday,9 PM,35470,57132,587,554,1000,945,31406,3859.77,2100,109,0.0,10776.15,27
-Client_H,Fashion,Facebook,Image,Tutorial,Monday,3 PM,8088,14078,327,203,422,77,0,0.0,757,59,222.11,5210.61,39
-Client_I,Food & Beverage,Facebook,Image,Tutorial,Friday,12 AM,3141,6777,101,80,70,68,0,0.0,180,12,0.0,1320.92,31
-Client_A,Food & Beverage,YouTube,Image,Behind the Scenes,Thursday,9 AM,17132,23170,462,346,832,382,11560,2475.25,369,23,0.0,3144.02,31
-Client_J,Fashion,Facebook,Video,Industry News,Tuesday,9 AM,4047,6671,71,58,239,53,4069,773.24,362,12,90.18,1317.9,19
-Client_I,Food & Beverage,Instagram,Image,Product Education,Wednesday,3 PM,42674,98256,6162,965,2280,1967,0,0.0,1823,67,449.65,8204.59,22
-Client_C,Finance,YouTube,Image,Behind the Scenes,Wednesday,9 AM,8726,16430,249,204,563,171,10442,1784.98,281,10,0.0,1209.03,15
-Client_B,Fashion,TikTok,Reel,Product Education,Friday,12 AM,78957,156746,14629,2572,3054,5025,96151,7762.7,2168,97,472.07,12591.79,28
-Client_F,Finance,YouTube,Reel,Tutorial,Monday,6 PM,18907,40696,678,321,1588,370,31837,1978.95,1594,50,0.0,6850.87,23
-Client_I,Healthcare,Instagram,Carousel,Tutorial,Sunday,9 PM,8500,13517,871,187,289,272,0,0.0,138,10,0.0,1158.96,33
-Client_I,Finance,LinkedIn,Carousel,Behind the Scenes,Saturday,3 PM,1776,2366,61,36,158,65,0,0.0,115,10,38.76,974.31,43
-Client_I,Tech,Instagram,Image,Promo/Offer,Wednesday,3 PM,10215,23718,2677,341,704,754,0,0.0,244,10,84.13,1311.33,24
-Client_C,Finance,Instagram,Video,Promo/Offer,Monday,12 AM,9730,14179,1308,139,267,400,6828,1201.46,506,22,0.0,2446.93,28
-Client_F,Fashion,YouTube,Reel,Tutorial,Tuesday,6 PM,17440,23999,1145,194,443,184,18097,3863.71,734,22,0.0,1981.02,19
-Client_D,Food & Beverage,YouTube,Reel,Promo/Offer,Tuesday,12 AM,28979,54940,2227,411,621,805,23813,1869.97,1583,32,416.75,4724.65,11
-Client_I,Finance,Instagram,Carousel,Industry News,Thursday,9 PM,10449,15750,1056,207,241,657,0,0.0,167,3,0.0,354.37,11
-Client_I,Food & Beverage,Facebook,Reel,Industry News,Monday,12 PM,21455,40172,1501,563,1263,614,23971,5948.49,1274,98,462.41,9773.25,31
-Client_J,Finance,Instagram,Image,Product Education,Monday,9 PM,3898,6745,658,64,157,175,0,0.0,232,9,0.0,785.47,28
-Client_F,Finance,Instagram,Reel,Industry News,Sunday,12 AM,4084,6496,682,88,73,254,5091,538.09,82,6,0.0,556.39,34
-Client_F,Finance,YouTube,Text,Tutorial,Saturday,6 PM,27618,42351,1531,422,955,367,25982,4066.05,1467,63,0.0,7602.05,24
-Client_I,Healthcare,Facebook,Reel,Industry News,Wednesday,9 AM,2592,3154,152,26,37,59,2332,520.86,156,5,0.0,450.45,25
-Client_G,Fashion,Facebook,Carousel,Product Education,Saturday,12 PM,3210,6487,315,75,201,68,0,0.0,176,12,32.65,1691.2,26
-Client_C,Finance,Facebook,Reel,Industry News,Monday,9 AM,3363,4649,185,42,88,71,2486,512.81,213,7,0.0,636.38,27
-Client_A,Healthcare,Facebook,Video,Industry News,Monday,6 PM,4255,8833,381,106,221,165,5030,409.24,478,24,0.0,3562.92,27
-Client_D,Food & Beverage,TikTok,Reel,Industry News,Thursday,12 PM,24306,31043,2589,332,561,1431,13096,1627.78,705,25,0.0,2182.7,24
-Client_J,Finance,Instagram,Carousel,Behind the Scenes,Tuesday,9 PM,3093,5558,398,30,126,233,0,0.0,100,7,0.0,836.75,36
-Client_H,Tech,Instagram,Image,Product Education,Wednesday,9 AM,12085,26088,1878,181,446,929,0,0.0,788,31,0.0,4425.43,27
-Client_B,Healthcare,Facebook,Reel,Promo/Offer,Sunday,6 PM,8787,20199,576,246,258,369,15225,3220.01,901,59,92.74,5385.12,34
-Client_I,Healthcare,TikTok,Image,Tutorial,Sunday,12 PM,14761,26916,1421,231,636,1305,21500,3684.57,1042,56,0.0,8378.07,27
-Client_A,Fashion,LinkedIn,Video,Product Education,Thursday,9 AM,13929,34234,1182,870,1272,403,17225,2491.63,1118,114,154.46,14309.33,41
-Client_B,Healthcare,YouTube,Reel,Behind the Scenes,Sunday,3 PM,17477,31802,878,258,913,403,13782,1828.03,747,54,0.0,8066.92,26
-Client_J,Tech,Facebook,Video,Product Education,Tuesday,9 AM,3832,6783,128,57,203,122,3984,625.58,336,8,0.0,740.95,17
-Client_G,Food & Beverage,Facebook,Text,Behind the Scenes,Monday,3 PM,3961,6679,194,43,74,61,0,0.0,261,15,0.0,1536.2,21
-Client_J,Food & Beverage,Instagram,Image,Tutorial,Thursday,12 PM,2552,3120,248,22,42,93,0,0.0,56,1,0.0,141.16,17
-Client_G,Healthcare,Facebook,Image,Industry News,Sunday,9 AM,1455,2369,51,23,90,18,0,0.0,97,6,0.0,885.55,32
-Client_F,Healthcare,YouTube,Reel,Promo/Offer,Sunday,9 PM,9562,17861,409,221,681,353,12407,1405.75,259,12,0.0,1083.89,24
-Client_B,Food & Beverage,LinkedIn,Video,Product Education,Thursday,12 PM,21086,44912,1235,988,2738,1074,21847,2008.89,1380,125,377.94,18357.16,43
-Client_F,Tech,LinkedIn,Image,Promo/Offer,Sunday,9 AM,6805,11269,384,285,573,234,0,0.0,320,19,0.0,2089.75,30
-Client_I,Healthcare,Facebook,Video,Tutorial,Thursday,3 PM,4302,8182,378,109,103,53,3566,190.02,433,11,0.0,1457.46,24
-Client_I,Tech,YouTube,Video,Promo/Offer,Sunday,9 AM,23153,32689,1048,474,1166,219,17660,3686.53,781,58,0.0,7258.13,34
-Client_A,Finance,Facebook,Video,Behind the Scenes,Wednesday,12 AM,2460,5172,191,27,192,26,2123,441.8,259,13,0.0,1714.53,29
-Client_F,Fashion,TikTok,Text,Industry News,Friday,6 PM,94029,180666,14459,2876,3217,10401,101398,11521.35,2665,90,467.33,11673.16,20
-Client_I,Tech,TikTok,Text,Behind the Scenes,Sunday,9 PM,55631,91697,8621,1431,967,4010,70445,4632.08,1968,127,229.96,11320.57,34
-Client_F,Fashion,Facebook,Carousel,Behind the Scenes,Tuesday,9 PM,9382,21616,260,113,309,134,0,0.0,1179,84,145.03,7372.28,36
-Client_B,Tech,Facebook,Image,Behind the Scenes,Tuesday,9 AM,1582,2470,63,14,26,30,0,0.0,132,3,0.0,384.34,19
-Client_F,Food & Beverage,Facebook,Carousel,Behind the Scenes,Monday,12 PM,3830,7132,242,53,182,36,0,0.0,204,11,497.56,1292.68,28
-Client_I,Fashion,Facebook,Image,Product Education,Tuesday,9 AM,3811,4891,73,28,78,44,0,0.0,226,13,0.0,1465.01,29
-Client_G,Healthcare,YouTube,Carousel,Behind the Scenes,Tuesday,12 PM,16835,21934,734,268,354,164,12576,1750.98,611,22,0.0,2250.87,15
-Client_J,Food & Beverage,YouTube,Carousel,Promo/Offer,Wednesday,3 PM,6961,14544,292,200,408,162,11346,1771.11,319,8,0.0,1093.06,17
-Client_C,Finance,Facebook,Reel,Industry News,Saturday,3 PM,13705,24789,958,203,669,203,12222,773.01,830,27,350.38,2571.01,23
-Client_E,Healthcare,Instagram,Video,Tutorial,Saturday,6 PM,28956,47769,2544,563,591,1479,30599,5147.8,816,17,257.09,1381.23,19
-Client_A,Food & Beverage,LinkedIn,Carousel,Tutorial,Monday,9 PM,6513,13205,687,331,541,323,0,0.0,488,40,65.66,4076.89,45
-Client_A,Food & Beverage,LinkedIn,Text,Tutorial,Sunday,12 AM,3865,9419,499,256,656,120,0,0.0,440,27,127.53,2326.35,39
-Client_I,Tech,Instagram,Image,Product Education,Monday,9 AM,8116,12412,1326,87,166,382,0,0.0,295,8,0.0,1122.66,24
-Client_G,Food & Beverage,Instagram,Video,Promo/Offer,Tuesday,9 PM,49265,128328,8445,801,2043,3920,80000,17965.96,3822,245,370.81,23131.03,27
-Client_B,Food & Beverage,Instagram,Carousel,Product Education,Saturday,12 PM,24001,37857,3457,621,1028,1556,0,0.0,732,34,120.16,3086.52,31
-Client_B,Fashion,Facebook,Image,Tutorial,Thursday,9 PM,18755,35192,1317,211,961,678,0,0.0,1366,36,223.09,3157.7,15
-Client_H,Fashion,LinkedIn,Reel,Tutorial,Saturday,9 PM,5542,7306,249,136,335,104,3897,538.83,263,13,0.0,1388.1,30
-Client_D,Finance,Facebook,Text,Industry News,Friday,3 PM,7261,13431,268,187,180,89,0,0.0,567,19,43.94,2227.74,19
-Client_D,Healthcare,YouTube,Text,Tutorial,Monday,12 PM,58590,95691,3658,655,965,891,73023,12736.94,3078,219,325.71,28066.06,27
-Client_F,Tech,Facebook,Carousel,Behind the Scenes,Thursday,12 PM,5295,10403,470,53,341,78,0,0.0,369,17,487.7,1361.2,23
-Client_H,Tech,Instagram,Reel,Promo/Offer,Saturday,3 PM,13397,20124,1435,322,383,995,16017,1625.21,494,20,65.08,1618.99,26
-Client_E,Finance,TikTok,Video,Tutorial,Monday,3 PM,24025,29327,3224,365,376,1360,14597,2893.16,1149,47,0.0,6208.96,26
-Client_G,Tech,LinkedIn,Video,Tutorial,Friday,12 PM,17545,32278,1866,696,1214,501,21972,4764.28,926,90,302.79,10769.97,43
-Client_E,Tech,Instagram,Text,Industry News,Thursday,12 AM,6302,9388,576,88,106,370,0,0.0,221,7,0.0,964.48,16
-Client_A,Food & Beverage,LinkedIn,Reel,Tutorial,Wednesday,12 AM,414,553,28,11,37,11,432,83.22,16,1,0.0,110.24,31
-Client_E,Fashion,Instagram,Text,Behind the Scenes,Tuesday,12 AM,27723,68972,4906,1047,1467,2236,0,0.0,1356,74,145.41,9459.6,26
-Client_E,Fashion,YouTube,Video,Industry News,Wednesday,3 PM,10039,21354,370,127,747,357,13039,2462.11,536,32,0.0,3360.93,28
-Client_G,Food & Beverage,YouTube,Text,Tutorial,Monday,9 PM,6938,11245,389,113,194,107,5070,804.38,303,11,0.0,1461.61,20
-Client_C,Food & Beverage,Instagram,Text,Promo/Offer,Thursday,9 AM,2783,5649,414,69,89,134,0,0.0,112,2,0.0,263.67,20
-Client_I,Tech,Facebook,Video,Industry News,Friday,12 AM,5451,11420,184,164,360,164,8248,1441.2,354,8,0.0,725.69,14
-Client_I,Tech,Facebook,Carousel,Product Education,Thursday,9 AM,19960,29334,1446,307,1034,507,0,0.0,1456,88,214.19,12333.37,37
-Client_B,Food & Beverage,Facebook,Reel,Industry News,Tuesday,12 AM,2145,4164,120,60,125,38,2486,456.28,152,9,0.0,787.62,30
-Client_G,Fashion,Instagram,Image,Tutorial,Monday,9 PM,9437,14181,1595,263,153,635,0,0.0,551,26,0.0,3395.98,29
-Client_A,Fashion,LinkedIn,Video,Promo/Offer,Tuesday,3 PM,6426,8114,276,197,353,197,5798,612.66,388,26,0.0,2796.95,42
-Client_H,Food & Beverage,YouTube,Video,Industry News,Friday,12 AM,66112,132239,6374,1195,3772,1351,55272,12182.29,1953,50,175.56,4371.77,21
-Client_H,Finance,Facebook,Carousel,Product Education,Tuesday,12 AM,16627,32043,467,404,390,567,0,0.0,1384,97,313.71,14030.91,31
-Client_B,Food & Beverage,YouTube,Carousel,Promo/Offer,Friday,12 PM,22269,41373,681,286,1417,711,26182,4603.4,1243,40,116.57,5468.02,15
-Client_F,Food & Beverage,TikTok,Video,Product Education,Wednesday,12 PM,22271,45263,3764,605,1012,1542,20601,1306.74,1033,43,0.0,3653.31,21
-Client_C,Healthcare,LinkedIn,Reel,Product Education,Thursday,12 PM,5474,10106,574,114,587,151,7565,1843.01,275,23,471.5,3213.64,44
-Client_I,Finance,YouTube,Video,Product Education,Friday,12 AM,8918,19057,688,133,431,104,14392,890.55,307,21,0.0,2164.53,33
-Client_A,Fashion,YouTube,Reel,Promo/Offer,Friday,12 AM,8089,10279,406,100,376,194,4643,903.83,134,6,0.0,574.6,23
-Client_G,Food & Beverage,LinkedIn,Carousel,Product Education,Monday,9 AM,2135,4398,217,111,141,92,0,0.0,201,15,0.0,1648.18,35
-Client_B,Food & Beverage,Instagram,Video,Behind the Scenes,Wednesday,12 PM,29896,44671,2943,754,1240,2229,28018,6953.72,466,29,302.54,3969.62,27
-Client_A,Fashion,YouTube,Carousel,Behind the Scenes,Monday,3 PM,23982,50132,761,579,1490,549,21584,5129.96,810,50,0.0,6846.99,24
-Client_H,Finance,LinkedIn,Video,Behind the Scenes,Sunday,12 AM,2526,3706,148,89,244,41,2404,254.72,115,6,0.0,889.89,30
-Client_E,Healthcare,Facebook,Reel,Behind the Scenes,Saturday,12 PM,944,1792,50,9,44,12,916,116.18,89,2,0.0,199.07,23
-Client_G,Food & Beverage,Instagram,Text,Tutorial,Thursday,9 AM,5008,6933,372,70,144,223,0,0.0,74,4,0.0,570.09,24
-Client_J,Fashion,Instagram,Image,Promo/Offer,Thursday,6 PM,4614,8089,932,105,241,254,0,0.0,183,11,0.0,1472.14,32
-Client_C,Food & Beverage,YouTube,Carousel,Industry News,Monday,3 PM,11671,16922,397,145,481,184,11230,2318.83,580,32,0.0,2838.45,31
-Client_F,Finance,Facebook,Text,Tutorial,Monday,6 PM,564,1221,53,17,14,10,0,0.0,40,2,0.0,203.96,20
-Client_H,Fashion,LinkedIn,Image,Behind the Scenes,Sunday,6 PM,1922,2641,122,36,148,38,0,0.0,106,8,0.0,817.71,42
-Client_D,Tech,LinkedIn,Image,Product Education,Saturday,3 PM,11787,23154,874,382,914,468,0,0.0,836,83,57.19,9056.78,49
-Client_G,Finance,Facebook,Reel,Behind the Scenes,Friday,3 PM,22094,55894,1216,442,1176,305,25712,4325.93,1575,51,472.39,5197.79,21
-Client_J,Finance,Facebook,Text,Promo/Offer,Monday,12 AM,2586,6199,293,66,155,51,0,0.0,256,11,57.11,1444.45,28
-Client_A,Healthcare,YouTube,Video,Promo/Offer,Thursday,3 PM,12134,21540,498,157,847,365,11328,2769.46,663,30,0.0,4410.98,26
-Client_F,Tech,LinkedIn,Video,Promo/Offer,Monday,3 PM,6515,10743,459,222,376,285,7633,1003.92,457,26,0.0,2553.71,32
-Client_F,Finance,Instagram,Reel,Tutorial,Thursday,9 PM,4565,8365,945,56,86,460,4227,680.19,317,20,0.0,1776.96,30
-Client_G,Tech,Facebook,Reel,Industry News,Friday,9 PM,5982,9298,300,129,126,145,7060,1188.17,404,32,0.0,2661.33,35
-Client_H,Food & Beverage,YouTube,Text,Behind the Scenes,Sunday,6 PM,10288,19791,847,100,288,250,12611,2330.28,467,18,0.0,1662.67,23
-Client_E,Tech,Facebook,Image,Tutorial,Wednesday,9 AM,7690,13686,370,92,267,134,0,0.0,400,27,0.0,3548.44,27
-Client_G,Healthcare,LinkedIn,Video,Promo/Offer,Wednesday,9 AM,10108,15650,867,465,1043,246,10976,2578.3,704,41,230.68,3873.64,41
-Client_C,Tech,TikTok,Reel,Promo/Offer,Friday,12 PM,18561,43244,5031,298,817,1602,25148,5874.55,1361,102,155.28,9016.38,38
-Client_H,Finance,Instagram,Carousel,Behind the Scenes,Saturday,12 AM,4640,9296,609,93,122,213,0,0.0,219,14,0.0,1778.64,25
-Client_F,Tech,YouTube,Reel,Promo/Offer,Wednesday,12 PM,147347,364629,3762,5262,7761,2571,244060,25152.14,5302,364,324.56,47811.13,26
-Client_C,Fashion,Instagram,Video,Industry News,Monday,6 PM,4325,7833,412,113,174,372,3868,463.16,202,15,0.0,2121.78,33
-Client_E,Food & Beverage,YouTube,Text,Promo/Offer,Wednesday,9 PM,19061,27046,1240,256,610,445,13494,1821.33,413,31,0.0,3913.53,31
-Client_G,Fashion,YouTube,Text,Promo/Offer,Thursday,12 AM,76226,134572,3547,1581,2650,1807,75964,16089.64,3062,109,428.47,9136.85,21
-Client_D,Finance,Instagram,Image,Tutorial,Thursday,12 PM,13088,22720,1311,157,504,1334,0,0.0,595,45,0.0,3666.52,37
-Client_B,Finance,LinkedIn,Video,Product Education,Saturday,9 AM,4198,7285,389,115,427,130,3384,422.24,272,22,0.0,2143.0,36
-Client_A,Tech,TikTok,Reel,Promo/Offer,Thursday,6 PM,37847,68136,4586,1142,849,2105,45113,3439.35,2195,79,390.76,6789.59,19
-Client_I,Food & Beverage,Instagram,Reel,Promo/Offer,Friday,12 PM,16022,37964,2727,203,768,1250,19347,1751.55,680,40,310.73,4519.92,27
-Client_G,Tech,Facebook,Text,Promo/Offer,Wednesday,6 PM,5906,10800,322,113,228,117,0,0.0,305,10,28.26,1482.63,20
-Client_D,Food & Beverage,LinkedIn,Text,Promo/Offer,Monday,12 AM,2839,5705,135,112,368,76,0,0.0,185,10,0.0,1231.54,34
-Client_I,Healthcare,Facebook,Reel,Tutorial,Wednesday,6 PM,15072,36621,1243,259,660,661,22886,3381.3,1464,113,350.72,10904.7,36
-Client_H,Healthcare,TikTok,Reel,Product Education,Thursday,12 AM,34323,80453,4958,449,2368,3017,45831,3856.42,2743,135,379.11,17877.99,32
-Client_G,Food & Beverage,Instagram,Image,Product Education,Thursday,3 PM,28078,60755,3639,863,855,2486,0,0.0,1909,97,332.11,9465.92,30
-Client_D,Finance,Facebook,Carousel,Promo/Offer,Saturday,6 PM,537,740,36,5,22,3,0,0.0,20,0,0.0,0.0,14
-Client_H,Healthcare,Facebook,Reel,Behind the Scenes,Saturday,9 PM,5653,7910,367,68,252,90,5590,1324.06,330,19,156.41,1789.44,34
-Client_C,Tech,Facebook,Image,Industry News,Wednesday,9 PM,1593,2743,69,30,97,37,0,0.0,148,9,0.0,1108.01,35
-Client_D,Fashion,Instagram,Carousel,Industry News,Monday,9 PM,8309,15189,1790,172,397,387,0,0.0,366,13,57.34,1731.61,23
-Client_I,Food & Beverage,YouTube,Text,Tutorial,Wednesday,3 PM,20485,26183,485,203,759,196,11969,1645.12,608,37,0.0,3608.9,23
-Client_I,Food & Beverage,LinkedIn,Carousel,Product Education,Sunday,3 PM,4785,7397,330,102,494,203,0,0.0,267,28,0.0,4191.06,47
-Client_H,Finance,TikTok,Carousel,Product Education,Friday,3 PM,74241,140414,12984,1710,2176,2996,58632,11087.3,2470,142,462.35,21013.14,23
-Client_H,Healthcare,YouTube,Text,Industry News,Thursday,12 AM,141102,210436,3393,1329,7602,3376,119491,26187.72,2458,143,449.25,12063.88,21
-Client_I,Finance,Facebook,Video,Product Education,Wednesday,12 AM,3583,4905,190,57,51,51,2778,509.89,131,4,0.0,533.16,14
-Client_E,Tech,Facebook,Text,Product Education,Wednesday,9 PM,3201,5151,225,54,99,98,0,0.0,146,7,0.0,969.69,20
-Client_J,Food & Beverage,Instagram,Reel,Product Education,Tuesday,12 AM,2985,5346,554,56,76,275,2312,450.51,93,6,0.0,749.77,30
-Client_C,Finance,Instagram,Text,Behind the Scenes,Tuesday,3 PM,4411,7119,491,63,210,199,0,0.0,165,4,0.0,419.44,19
-Client_F,Healthcare,YouTube,Carousel,Product Education,Sunday,9 PM,15208,26898,735,212,819,395,14440,3519.0,714,46,0.0,4546.02,32
-Client_D,Finance,Facebook,Text,Behind the Scenes,Monday,9 AM,20220,33295,828,177,920,355,0,0.0,1532,88,301.67,12395.07,24
-Client_C,Food & Beverage,YouTube,Image,Behind the Scenes,Saturday,9 AM,12970,19536,340,186,669,104,12315,1687.08,429,30,0.0,2930.41,30
-Client_J,Finance,YouTube,Text,Behind the Scenes,Monday,12 PM,72371,139678,4710,1118,2093,1042,89217,16908.97,3592,276,297.19,33053.53,28
-Client_C,Finance,Instagram,Reel,Behind the Scenes,Sunday,12 PM,14392,21986,2458,187,255,704,10582,719.93,381,23,90.8,3201.53,29
-Client_A,Food & Beverage,Facebook,Image,Product Education,Thursday,9 PM,4024,8502,367,50,279,132,0,0.0,245,16,0.0,1429.55,31
-Client_E,Food & Beverage,TikTok,Text,Promo/Offer,Monday,3 PM,122239,319438,19955,3999,5508,9393,127978,21735.02,7010,172,445.08,16530.08,20
-Client_D,Tech,Facebook,Image,Tutorial,Monday,3 PM,16561,31452,1347,289,1218,173,0,0.0,940,57,205.67,7888.59,32
-Client_B,Finance,Instagram,Text,Product Education,Tuesday,3 PM,4231,6701,563,111,120,391,0,0.0,127,4,0.0,497.55,27
-Client_H,Healthcare,LinkedIn,Text,Behind the Scenes,Sunday,9 PM,2946,4062,204,41,134,111,0,0.0,217,20,0.0,1960.97,47
-Client_J,Food & Beverage,YouTube,Reel,Tutorial,Wednesday,9 AM,42003,82890,2053,1050,2507,943,33936,3510.58,1558,70,307.68,7789.17,21
-Client_A,Healthcare,Instagram,Image,Product Education,Friday,12 AM,35806,55019,5188,1077,852,2049,0,0.0,1687,58,368.86,7991.82,28
-Client_J,Food & Beverage,Instagram,Reel,Behind the Scenes,Wednesday,9 AM,4596,8841,504,88,216,358,5788,638.98,194,6,0.0,793.64,26
-Client_B,Food & Beverage,Instagram,Carousel,Promo/Offer,Wednesday,3 PM,10585,21103,1127,401,301,906,0,0.0,384,23,0.0,2139.0,32
-Client_A,Healthcare,YouTube,Carousel,Behind the Scenes,Wednesday,9 AM,16193,32095,673,364,1081,383,14085,1337.58,1003,33,0.0,4052.3,25
+Client,Industry,Platform,Content Type,Content Topic,Reach,Impressions,Likes,Comments,Clicks,Leads,Ad Spend,Performance Score
+Client_6,Finance,Facebook,Video,Tutorial,5848,9687,616,51,203,16,0,100
+Client_9,Tech,Instagram,Video,Tutorial,3819,6753,502,53,185,16,0,100
+Client_1,Tech,Instagram,Text,Promo,10684,14304,640,54,323,43,162,100
+Client_9,Fashion,Facebook,Reel,Tutorial,4455,8120,175,12,110,7,160,100
+Client_2,Tech,Facebook,Video,News,3168,4029,151,10,89,6,0,100
+Client_9,Finance,Facebook,Carousel,Tutorial,7952,10306,624,37,407,58,0,100
+Client_7,Health,TikTok,Carousel,Tutorial,9317,12531,521,60,247,34,0,100
+Client_2,Finance,LinkedIn,Text,News,7460,11332,841,46,306,19,0,100
+Client_9,Tech,YouTube,Reel,BehindScenes,14338,23353,1355,187,296,39,0,100
+Client_3,Finance,YouTube,Text,Education,16360,20765,1344,81,705,49,0,100
+Client_3,Food,LinkedIn,Carousel,News,4074,6246,125,6,237,17,0,100
+Client_4,Fashion,TikTok,Video,Education,12008,21595,1668,145,758,41,0,100
+Client_2,Tech,TikTok,Carousel,Education,12678,21911,879,103,472,62,0,100
+Client_9,Tech,Instagram,Image,Promo,5817,7712,241,21,239,21,0,100
+Client_2,Tech,YouTube,Video,News,8309,12893,765,111,373,33,0,100
+Client_9,Tech,Facebook,Text,Tutorial,2943,3569,108,8,60,6,67,66
+Client_7,Food,LinkedIn,Text,Education,2371,2929,158,21,94,9,0,94
+Client_2,Finance,LinkedIn,Text,Promo,6544,8278,452,63,268,18,282,100
+Client_9,Fashion,TikTok,Text,BehindScenes,16153,17802,536,33,611,73,0,100
+Client_7,Tech,Facebook,Carousel,Education,2774,4164,242,18,94,7,0,100
+Client_9,Tech,LinkedIn,Reel,Promo,3984,6863,479,43,135,16,0,100
+Client_1,Food,TikTok,Video,News,17434,19597,900,63,411,40,0,100
+Client_1,Health,LinkedIn,Image,Promo,2430,4115,316,27,73,10,0,100
+Client_2,Food,LinkedIn,Reel,News,8289,13808,759,96,535,79,260,100
+Client_5,Fashion,TikTok,Video,News,13592,17508,1037,143,241,33,0,100
+Client_7,Health,TikTok,Reel,Tutorial,14065,24915,773,101,572,72,182,100
+Client_8,Finance,LinkedIn,Video,BehindScenes,9877,18457,1102,63,434,34,178,100
+Client_3,Food,LinkedIn,Image,Tutorial,5683,8558,367,39,227,28,288,100
+Client_8,Tech,Facebook,Text,Tutorial,1367,2155,60,7,33,2,0,46
+Client_2,Tech,YouTube,Reel,Education,19277,33753,935,78,985,75,0,100
+Client_10,Fashion,TikTok,Video,Promo,11359,13365,713,66,476,67,0,100
+Client_5,Food,Facebook,Video,Tutorial,1032,1524,42,3,57,6,0,72
+Client_3,Health,YouTube,Reel,Education,11070,14565,607,68,569,78,0,100
+Client_2,Tech,Instagram,Reel,BehindScenes,4962,8960,542,64,92,9,165,100
+Client_3,Finance,YouTube,Video,News,15415,29192,1263,93,609,53,278,100
+Client_2,Food,Instagram,Text,Promo,5145,9085,423,62,338,26,0,100
+Client_7,Finance,TikTok,Text,Promo,12790,21718,929,137,770,106,35,100
+Client_4,Health,YouTube,Carousel,Promo,11685,14044,924,108,406,44,0,100
+Client_3,Food,TikTok,Image,News,15577,20232,440,27,487,72,126,100
+Client_7,Finance,LinkedIn,Text,BehindScenes,6005,8073,581,55,91,9,0,100
+Client_9,Finance,TikTok,Video,Promo,19450,29097,1466,119,627,52,0,100
+Client_4,Food,YouTube,Text,Tutorial,18604,33144,2088,160,727,73,0,100
+Client_5,Food,Instagram,Reel,Tutorial,5402,9033,414,54,122,12,0,100
+Client_4,Tech,YouTube,Image,Promo,10444,14557,556,34,487,43,0,100
+Client_4,Tech,YouTube,Text,News,14772,18538,699,78,437,38,0,100
+Client_8,Fashion,YouTube,Video,BehindScenes,13675,19922,647,55,652,83,0,100
+Client_9,Tech,Facebook,Carousel,Tutorial,3287,5119,245,35,53,3,0,82
+Client_5,Food,Instagram,Carousel,Education,5318,8194,475,40,211,27,0,100
+Client_1,Tech,YouTube,Video,News,10258,13112,512,72,461,28,0,100
+Client_2,Finance,Facebook,Video,Promo,2838,4276,104,12,135,9,0,100
+Client_4,Food,YouTube,Carousel,Education,19624,23548,836,113,681,65,0,100
+Client_1,Tech,Facebook,Video,Education,6040,11521,345,26,326,45,197,100
+Client_8,Food,TikTok,Reel,Tutorial,15627,20526,663,70,607,78,0,100
+Client_1,Fashion,Facebook,Video,News,7954,13680,883,99,501,43,0,100
+Client_6,Finance,TikTok,Video,Tutorial,12631,19389,1432,168,286,41,0,100
+Client_2,Tech,Instagram,Image,Tutorial,4738,6980,384,20,168,23,0,100
+Client_1,Tech,YouTube,Text,BehindScenes,9061,15637,772,59,270,32,0,100
+Client_10,Tech,Facebook,Text,Promo,4176,5912,323,41,158,20,210,100
+Client_10,Tech,LinkedIn,Reel,Promo,4197,6417,444,65,192,23,0,100
+Client_4,Food,LinkedIn,Image,Tutorial,9651,14944,327,34,491,72,293,100
+Client_2,Fashion,TikTok,Reel,BehindScenes,9912,16998,1084,77,465,30,0,100
+Client_7,Tech,Facebook,Image,Education,10974,20920,1375,145,395,34,101,100
+Client_1,Finance,LinkedIn,Text,BehindScenes,3468,5931,173,19,78,6,254,77
+Client_10,Tech,Instagram,Text,Tutorial,7321,11283,460,52,279,34,255,100
+Client_10,Tech,Facebook,Carousel,News,4184,4893,185,11,90,7,0,90
+Client_5,Tech,YouTube,Carousel,BehindScenes,16587,24310,1640,137,552,46,0,100
+Client_1,Health,LinkedIn,Carousel,Education,2646,4955,277,39,120,16,139,100
+Client_2,Finance,LinkedIn,Text,Education,3797,5405,154,19,197,26,0,100
+Client_3,Fashion,YouTube,Image,News,11835,21025,1635,178,411,56,0,100
+Client_5,Fashion,Instagram,Image,Tutorial,2731,4510,225,16,171,10,0,100
+Client_3,Health,Instagram,Image,Tutorial,5485,7148,228,25,202,29,0,100
+Client_7,Food,LinkedIn,Reel,News,9478,11716,311,36,193,25,44,100
+Client_7,Finance,YouTube,Carousel,News,16075,24505,552,31,893,125,0,100
+Client_7,Health,Facebook,Video,Promo,5308,7086,465,49,256,26,289,100
+Client_4,Food,TikTok,Carousel,Education,23233,37636,759,89,503,72,41,100
+Client_8,Food,Instagram,Text,Tutorial,5391,6699,305,17,101,14,213,100
+Client_1,Fashion,YouTube,Carousel,BehindScenes,27298,42305,2159,123,1576,151,71,100
+Client_7,Finance,Facebook,Reel,BehindScenes,6797,8759,459,27,250,32,0,100
+Client_8,Finance,Instagram,Text,Tutorial,2126,3744,191,20,133,18,0,100
+Client_8,Tech,Facebook,Image,Tutorial,4732,7006,522,58,140,7,247,100
+Client_4,Tech,TikTok,Video,Education,9627,16494,462,46,352,38,0,100
+Client_1,Fashion,TikTok,Reel,Tutorial,11116,19902,953,129,516,41,0,100
+Client_9,Tech,LinkedIn,Reel,Tutorial,7509,8796,634,45,133,12,0,100
+Client_3,Finance,YouTube,Reel,News,21316,29852,2311,311,605,61,249,100
+Client_5,Finance,Instagram,Video,Promo,5457,7647,275,31,174,9,0,100
+Client_3,Food,LinkedIn,Text,News,2587,3208,114,13,85,7,205,75
+Client_10,Fashion,LinkedIn,Image,Education,4563,6501,426,32,252,34,0,100
+Client_5,Finance,TikTok,Video,Tutorial,18945,31205,1369,144,340,31,0,100
+Client_3,Fashion,TikTok,Reel,Promo,16521,18382,1146,94,660,35,0,100
+Client_3,Health,YouTube,Image,Promo,15206,21842,956,135,818,83,0,100
+Client_3,Tech,Instagram,Text,Tutorial,5243,9224,454,66,361,26,0,100
+Client_4,Tech,LinkedIn,Reel,News,3400,5301,257,22,97,8,0,100
+Client_6,Fashion,TikTok,Image,News,23404,44092,2361,182,1519,93,122,100
+Client_3,Fashion,Facebook,Carousel,Promo,10014,16744,542,68,339,31,65,100
+Client_10,Fashion,Facebook,Reel,Education,5438,8422,466,53,328,37,0,100
+Client_5,Tech,Instagram,Reel,Education,5093,6590,301,20,122,15,0,100
+Client_4,Health,Instagram,Carousel,Promo,1408,2370,77,10,67,7,0,65
+Client_7,Finance,YouTube,Video,Promo,9165,11258,504,39,342,36,0,100
+Client_7,Tech,Instagram,Text,Education,3829,5555,443,34,87,8,0,100
+Client_1,Finance,TikTok,Text,Tutorial,18151,26972,1451,79,767,111,263,100
+Client_8,Finance,YouTube,Carousel,News,18735,28438,741,63,808,81,0,100
+Client_8,Food,LinkedIn,Carousel,BehindScenes,7067,12293,312,29,165,22,0,100
+Client_6,Health,TikTok,Carousel,Promo,15663,22067,1090,112,567,34,281,100
+Client_4,Fashion,YouTube,Text,Promo,10345,15165,910,136,155,17,0,100
+Client_7,Fashion,Instagram,Text,BehindScenes,6451,9758,324,47,151,18,232,100
+Client_10,Health,Instagram,Image,BehindScenes,5105,9105,641,64,243,12,0,100
+Client_7,Fashion,Instagram,Video,BehindScenes,7470,12984,428,33,402,35,0,100
+Client_7,Tech,Facebook,Carousel,BehindScenes,1930,2223,91,11,38,2,0,43
+Client_7,Food,YouTube,Carousel,BehindScenes,8598,13755,689,95,354,26,0,100
+Client_10,Finance,YouTube,Text,News,13443,22288,1186,110,740,40,152,100
+Client_4,Tech,LinkedIn,Image,News,4411,5632,260,31,141,13,203,100
+Client_6,Tech,YouTube,Image,Education,14819,26314,1584,95,494,71,0,100
+Client_2,Fashion,LinkedIn,Video,Promo,7402,13304,574,46,230,21,0,100
+Client_4,Tech,Instagram,Reel,Tutorial,9343,15499,1231,63,590,45,263,100
+Client_7,Food,YouTube,Video,BehindScenes,12936,21457,505,31,642,34,0,100
+Client_1,Food,Facebook,Video,Tutorial,11278,16596,387,31,415,33,24,100
+Client_10,Health,YouTube,Reel,Promo,19854,23342,1834,254,913,64,0,100
+Client_5,Health,TikTok,Carousel,BehindScenes,13667,19766,718,65,752,107,0,100
+Client_8,Finance,YouTube,Reel,Tutorial,13345,17335,1123,102,405,44,0,100
+Client_3,Finance,TikTok,Image,Education,11141,17705,676,35,614,74,0,100
+Client_8,Health,YouTube,Image,Promo,20349,24070,1316,110,718,72,106,100
+Client_6,Health,YouTube,Image,Tutorial,20859,33900,1997,217,1280,73,23,100
+Client_4,Food,TikTok,Carousel,News,15018,26422,1343,195,986,54,51,100
+Client_8,Finance,LinkedIn,Reel,News,2938,3812,145,20,69,8,246,67
+Client_1,Food,Instagram,Carousel,News,6013,9964,272,36,379,25,0,100
+Client_1,Tech,Facebook,Reel,News,5857,9801,294,23,288,42,0,100
+Client_9,Tech,LinkedIn,Text,Promo,5687,10025,655,98,326,44,0,100
+Client_6,Fashion,Instagram,Reel,Tutorial,4371,5182,398,34,66,5,71,93
+Client_5,Food,YouTube,Text,Promo,19101,23707,1352,180,302,18,108,100
+Client_3,Finance,YouTube,Image,Promo,13516,16347,1232,136,605,66,225,100
+Client_4,Finance,LinkedIn,Text,Education,5064,9097,275,33,274,19,33,100
+Client_5,Fashion,TikTok,Image,Tutorial,15268,18107,952,118,216,24,202,100
+Client_10,Fashion,LinkedIn,Carousel,BehindScenes,5700,6780,251,17,261,20,0,100
+Client_5,Health,Facebook,Carousel,Tutorial,3014,4898,104,6,143,11,0,100
+Client_9,Finance,Facebook,Image,Tutorial,5406,6886,165,10,185,24,282,100
+Client_7,Finance,TikTok,Image,Education,19806,26097,2054,280,424,52,290,100
+Client_7,Food,LinkedIn,Text,News,6231,9485,535,54,281,40,0,100
+Client_5,Health,YouTube,Image,Promo,15843,23660,1174,87,644,78,30,100
+Client_8,Food,LinkedIn,Carousel,News,7930,11505,605,84,121,12,0,100
+Client_2,Food,LinkedIn,Carousel,Education,4137,5859,249,18,100,13,187,100
+Client_9,Food,YouTube,Carousel,Tutorial,8412,13545,941,48,272,24,0,100
+Client_1,Food,Instagram,Carousel,Promo,6085,9107,601,79,184,16,0,100
+Client_6,Finance,Facebook,Text,Promo,4529,7239,415,60,271,39,0,100
+Client_7,Food,TikTok,Reel,Tutorial,8874,14721,1172,137,200,14,0,100
+Client_10,Health,TikTok,Text,BehindScenes,15637,28023,1456,80,721,60,0,100
+Client_2,Fashion,TikTok,Reel,Tutorial,11599,15622,416,43,559,36,0,100
+Client_7,Food,Facebook,Text,BehindScenes,4947,7690,432,32,239,30,0,100
+Client_8,Food,YouTube,Text,Education,14503,25985,1778,147,956,81,50,100
+Client_1,Food,Facebook,Image,Tutorial,5038,9060,485,43,112,5,0,100
+Client_9,Health,TikTok,Image,News,13087,24625,1022,121,262,23,203,100
+Client_4,Food,LinkedIn,Video,BehindScenes,9885,11947,749,56,346,22,18,100
+Client_9,Health,Facebook,Text,Promo,2505,3287,258,29,77,8,0,93
+Client_5,Tech,LinkedIn,Video,Education,6616,11099,717,53,159,15,56,100
+Client_10,Fashion,LinkedIn,Video,News,2799,3223,200,12,43,3,0,70
+Client_2,Health,LinkedIn,Carousel,Promo,4942,6182,343,43,82,10,253,100
+Client_2,Health,LinkedIn,Video,News,5410,8756,450,23,347,24,288,100
+Client_4,Fashion,Instagram,Carousel,Promo,5709,7344,275,32,246,34,62,100
+Client_7,Tech,LinkedIn,Image,Tutorial,2758,5086,352,45,154,16,121,100
+Client_1,Tech,YouTube,Image,BehindScenes,12851,19129,556,80,764,78,0,100
+Client_4,Finance,YouTube,Text,News,14532,19476,395,30,263,27,279,100
+Client_6,Health,Facebook,Image,BehindScenes,7549,13608,521,63,507,50,221,100
+Client_1,Food,YouTube,Carousel,News,18649,31719,1657,174,594,43,0,100
+Client_5,Finance,YouTube,Video,Promo,9873,12866,811,51,488,34,0,100
+Client_6,Health,Facebook,Reel,Promo,8454,14198,599,77,385,42,85,100
+Client_10,Finance,YouTube,Carousel,Tutorial,23824,37521,1666,119,613,70,22,100
+Client_9,Tech,Facebook,Image,Promo,6121,10349,359,38,149,15,0,100
+Client_3,Food,Facebook,Video,BehindScenes,1734,2209,96,9,57,3,159,50
+Client_7,Fashion,YouTube,Image,Education,14350,21778,1169,146,495,29,0,100
+Client_1,Food,TikTok,Reel,BehindScenes,15656,17629,423,53,340,33,0,100
+Client_6,Food,Facebook,Reel,BehindScenes,9324,17462,1226,121,506,27,121,100
+Client_6,Fashion,LinkedIn,Text,Tutorial,4261,7897,343,36,156,20,113,100
+Client_9,Health,Instagram,Carousel,Education,5358,7024,421,45,197,20,0,100
+Client_4,Fashion,Facebook,Text,News,9621,14400,870,65,527,44,160,100
+Client_10,Finance,YouTube,Video,Education,16942,26796,979,121,902,124,0,100
+Client_3,Food,TikTok,Reel,News,13660,16428,521,35,291,20,32,100
+Client_4,Fashion,Facebook,Video,Education,9655,18140,799,44,407,33,114,100
+Client_1,Finance,YouTube,Text,News,13819,21648,789,118,854,88,234,100
+Client_9,Tech,Facebook,Video,Promo,4202,6225,161,10,211,12,0,100
+Client_3,Food,YouTube,Image,Tutorial,13260,18694,1421,162,655,65,170,100
+Client_6,Food,Instagram,Text,Promo,4969,6142,343,35,141,8,0,100
+Client_9,Fashion,Instagram,Image,News,1375,2183,78,10,44,5,0,60
+Client_5,Health,TikTok,Video,Promo,29145,51064,1705,177,1443,94,254,100
+Client_10,Finance,YouTube,Text,Education,13339,17820,560,41,654,82,47,100
+Client_1,Fashion,Instagram,Carousel,Tutorial,3677,4354,264,37,49,3,0,79
+Client_5,Food,Instagram,Carousel,News,7753,8886,365,49,352,31,0,100
+Client_7,Tech,Instagram,Reel,News,9175,16771,1128,124,174,23,222,100
+Client_6,Finance,Facebook,Carousel,News,1566,2556,104,13,98,12,260,91
+Client_5,Food,Instagram,Video,Tutorial,3744,4801,103,6,154,11,0,100
+Client_1,Tech,LinkedIn,Reel,BehindScenes,6658,9224,512,46,104,8,0,100
+Client_10,Tech,TikTok,Image,Promo,20530,31412,1925,232,788,102,261,100
+Client_7,Food,Instagram,Video,BehindScenes,4643,7082,463,60,97,12,0,100
+Client_7,Food,YouTube,Image,News,19507,22268,1484,170,784,66,0,100
+Client_3,Fashion,TikTok,Carousel,News,27328,40902,3038,371,1083,62,195,100
+Client_7,Health,Instagram,Text,Education,1612,2565,187,9,53,3,0,74
+Client_10,Tech,YouTube,Text,Tutorial,16282,25542,511,41,389,30,0,100
+Client_5,Food,LinkedIn,Video,Tutorial,9796,16508,681,64,553,76,99,100
+Client_9,Fashion,TikTok,Video,Education,22186,35283,967,75,467,57,290,100
+Client_9,Finance,Facebook,Reel,Promo,2246,2635,179,17,94,10,0,100
+Client_10,Fashion,YouTube,Image,Tutorial,22794,43217,1828,166,443,42,203,100
+Client_3,Finance,YouTube,Text,Promo,16032,26499,2102,148,516,63,0,100
+Client_4,Tech,LinkedIn,Reel,BehindScenes,8047,12185,817,109,332,34,256,100
+Client_9,Food,LinkedIn,Text,Education,3246,4254,232,14,135,18,0,100
+Client_9,Fashion,YouTube,Reel,News,24142,30793,2448,285,452,23,257,100
+Client_6,Fashion,Facebook,Carousel,Promo,2534,3354,69,6,47,4,0,49
+Client_5,Tech,TikTok,Text,Promo,15804,20387,796,96,316,29,157,100
+Client_1,Health,Facebook,Text,Promo,5296,8804,362,49,207,27,0,100
+Client_9,Tech,Instagram,Text,Tutorial,2731,4193,204,15,110,10,219,95
+Client_3,Health,Facebook,Carousel,Tutorial,7159,11851,393,26,436,51,0,100
+Client_1,Finance,LinkedIn,Carousel,News,3765,5573,284,18,103,10,0,100
+Client_1,Fashion,Facebook,Text,Tutorial,4660,5375,229,14,190,26,0,100
+Client_5,Health,Facebook,Image,Tutorial,4419,4900,108,9,88,10,0,99
+Client_9,Tech,Instagram,Carousel,Promo,6563,8055,333,23,169,17,0,100
+Client_2,Finance,YouTube,Video,News,29260,37912,1963,201,1510,143,234,100
+Client_3,Tech,YouTube,Reel,Tutorial,8318,11032,842,79,126,11,0,100
+Client_3,Food,LinkedIn,Video,Promo,7787,12190,853,120,464,48,0,100
+Client_1,Health,LinkedIn,Image,News,7601,12356,385,46,422,37,0,100
+Client_4,Health,Facebook,Image,Education,6535,10655,731,98,420,50,0,100
+Client_7,Food,LinkedIn,Video,BehindScenes,7633,10017,436,36,281,22,287,100
+Client_3,Tech,YouTube,Reel,Education,12495,20660,1379,120,426,48,0,100
+Client_6,Food,YouTube,Reel,Education,29163,49862,3613,281,1208,157,116,100
+Client_2,Food,YouTube,Image,News,16401,31331,979,122,572,29,56,100
+Client_8,Tech,LinkedIn,Video,Tutorial,8376,11046,224,25,158,16,213,100
+Client_10,Finance,TikTok,Video,Tutorial,16233,21613,1727,89,290,36,0,100
+Client_5,Health,Facebook,Carousel,Education,6431,11213,642,94,322,29,0,100
+Client_1,Tech,YouTube,Reel,Education,16187,22774,636,44,658,38,0,100
+Client_6,Tech,Facebook,Reel,Promo,8881,15593,1015,114,580,38,122,100
+Client_2,Food,YouTube,Reel,Tutorial,14149,19601,449,35,370,37,44,100
+Client_2,Health,YouTube,Video,Promo,23419,31750,821,90,544,64,20,100
+Client_7,Food,TikTok,Carousel,BehindScenes,9367,12305,534,39,462,33,0,100
+Client_2,Health,LinkedIn,Text,BehindScenes,4754,5754,140,12,195,26,0,100
+Client_8,Food,Instagram,Carousel,Tutorial,1285,1430,92,5,30,3,0,48
+Client_9,Finance,YouTube,Video,BehindScenes,18511,28056,844,74,304,29,0,100
+Client_6,Health,Instagram,Image,Tutorial,11013,18825,1428,155,394,27,125,100
+Client_1,Food,YouTube,Video,Education,16626,27243,2126,229,1018,121,0,100
+Client_2,Finance,LinkedIn,Text,Education,5934,8230,559,77,125,18,0,100
+Client_7,Food,TikTok,Image,Education,16723,23367,1156,94,294,22,0,100
+Client_3,Food,Facebook,Carousel,News,1828,3024,160,13,33,4,0,53
+Client_3,Health,LinkedIn,Image,News,7008,11497,538,56,131,12,254,100
+Client_10,Fashion,LinkedIn,Carousel,Education,4740,7600,504,64,199,15,0,100
+Client_2,Health,Instagram,Carousel,News,7865,11560,424,58,359,48,0,100
+Client_9,Finance,TikTok,Image,BehindScenes,21540,29652,1033,91,1079,77,294,100
+Client_9,Health,LinkedIn,Image,BehindScenes,3610,6876,469,52,252,19,171,100
+Client_7,Finance,Facebook,Text,Education,5221,9125,387,49,122,10,0,100
+Client_5,Fashion,Facebook,Text,Tutorial,1600,2836,159,18,88,7,0,99
+Client_10,Fashion,TikTok,Video,News,28506,48811,3570,187,821,47,181,100
+Client_8,Tech,LinkedIn,Image,Tutorial,5518,9372,604,34,286,28,47,100
+Client_9,Finance,Facebook,Reel,Education,2964,4812,340,48,137,18,0,100
+Client_7,Food,LinkedIn,Reel,BehindScenes,1885,2918,204,29,90,5,0,100
+Client_10,Food,TikTok,Image,BehindScenes,11182,15513,527,46,557,49,0,100
+Client_1,Finance,TikTok,Text,Education,18060,28230,1335,131,589,40,0,100
+Client_10,Food,LinkedIn,Image,Promo,8058,9977,355,35,102,6,105,100
+Client_10,Health,TikTok,Image,News,16869,23399,1603,171,556,36,0,100
+Client_7,Health,LinkedIn,Image,Tutorial,8976,12302,298,33,321,20,28,100
+Client_10,Fashion,LinkedIn,Video,Education,6095,7747,488,25,95,7,0,100
+Client_8,Tech,LinkedIn,Text,BehindScenes,7798,12039,405,48,468,31,0,100
+Client_3,Food,TikTok,Text,Education,10221,11410,235,34,152,7,0,100
+Client_3,Food,LinkedIn,Reel,Education,4529,8138,320,39,239,24,0,100
+Client_3,Fashion,YouTube,Carousel,Promo,22653,39588,2760,272,1280,88,260,100
+Client_10,Food,YouTube,Carousel,Tutorial,29190,40040,1478,177,793,72,82,100
+Client_7,Tech,LinkedIn,Carousel,Tutorial,6195,9873,749,53,240,32,172,100
+Client_5,Food,Instagram,Video,BehindScenes,4490,7835,173,19,260,29,0,100
+Client_10,Food,YouTube,Reel,BehindScenes,24907,40376,1078,60,1401,186,177,100
+Client_3,Fashion,YouTube,Video,Promo,12550,18151,1223,64,548,48,0,100
+Client_2,Fashion,TikTok,Image,BehindScenes,13630,22457,640,65,655,51,0,100
+Client_3,Health,YouTube,Image,Tutorial,19100,31537,1168,98,1114,56,0,100
+Client_3,Finance,TikTok,Image,News,18911,23010,1305,147,540,61,0,100
+Client_8,Finance,TikTok,Text,News,15792,29512,2018,171,980,81,209,100
+Client_7,Finance,TikTok,Reel,Education,18933,22336,917,92,542,71,0,100
+Client_8,Health,Instagram,Video,News,1811,2510,197,13,85,11,0,97
+Client_10,Fashion,TikTok,Text,Education,12249,20479,481,67,277,39,0,100
+Client_6,Fashion,LinkedIn,Text,BehindScenes,1951,2636,146,10,81,4,285,71
+Client_8,Tech,LinkedIn,Text,Education,2532,3025,62,6,48,5,232,55
+Client_1,Tech,Instagram,Reel,News,3550,5640,288,26,183,14,0,100
+Client_6,Food,Facebook,Video,BehindScenes,2935,4547,250,28,66,6,0,89
+Client_6,Health,TikTok,Text,Promo,9554,11222,265,38,229,26,0,100
+Client_5,Finance,TikTok,Image,Tutorial,17071,31027,875,90,551,42,103,100
+Client_8,Health,Facebook,Text,Tutorial,1597,2647,53,4,46,3,0,62
+Client_5,Finance,Facebook,Video,BehindScenes,2218,3489,244,20,57,3,0,84
+Client_4,Food,Facebook,Text,Promo,1975,2975,154,22,84,6,0,82
+Client_8,Finance,LinkedIn,Video,Education,3660,6568,524,44,106,14,0,100
+Client_1,Finance,TikTok,Video,Education,21300,37889,2603,146,881,111,79,100
+Client_5,Fashion,Instagram,Video,BehindScenes,5607,8843,308,44,233,20,0,100
+Client_6,Food,LinkedIn,Video,BehindScenes,3988,6217,327,23,163,10,0,100
+Client_5,Fashion,Facebook,Text,Tutorial,2773,4723,357,38,123,11,0,100
+Client_5,Health,Facebook,Reel,Education,9141,14558,988,131,444,55,121,100
+Client_6,Health,Instagram,Reel,BehindScenes,4565,7416,316,15,220,12,0,100
+Client_8,Fashion,Instagram,Reel,Education,1552,2591,88,12,75,8,0,80
+Client_9,Tech,LinkedIn,Carousel,Education,2610,4595,199,16,159,17,0,100
+Client_5,Fashion,LinkedIn,Carousel,BehindScenes,9625,15291,1219,103,597,67,255,100
+Client_9,Fashion,Instagram,Carousel,Tutorial,1860,2334,123,15,71,9,34,82
+Client_7,Finance,Instagram,Video,News,11767,15019,309,40,597,82,132,100
+Client_8,Food,YouTube,Carousel,Education,16762,22192,1066,99,447,62,37,100
+Client_3,Tech,YouTube,Reel,Tutorial,12471,16013,1011,55,173,21,0,100
+Client_4,Fashion,YouTube,Video,Education,26715,44571,2775,327,1140,99,211,100
+Client_1,Finance,YouTube,Reel,Education,19033,30780,707,77,1175,165,0,100
+Client_9,Tech,YouTube,Text,News,12102,17371,1234,123,545,37,0,100
+Client_9,Health,LinkedIn,Text,Education,2321,2792,100,8,31,3,0,54
+Client_3,Food,Instagram,Carousel,Education,7262,12818,889,126,188,17,0,100
+Client_10,Health,Facebook,Text,Education,1202,1798,78,11,48,4,0,64
+Client_2,Finance,Facebook,Reel,Promo,9204,16644,1308,76,473,63,158,100
+Client_7,Finance,LinkedIn,Reel,Promo,2637,3257,246,20,82,12,240,90
+Client_7,Fashion,YouTube,Reel,Education,9673,15797,1058,149,507,58,0,100
+Client_7,Fashion,Facebook,Carousel,Education,5112,8968,633,67,343,44,161,100
+Client_4,Tech,YouTube,Reel,Education,11255,15537,890,123,591,66,0,100
+Client_5,Food,LinkedIn,Carousel,Promo,4179,7326,552,73,252,31,95,100
+Client_3,Food,LinkedIn,Carousel,Tutorial,1653,1984,120,8,45,2,248,53
+Client_1,Tech,Facebook,Carousel,BehindScenes,7421,10751,301,37,336,27,0,100
+Client_5,Health,Instagram,Image,Education,5298,9093,231,26,218,30,0,100
+Client_7,Health,TikTok,Reel,Promo,17247,24139,490,68,700,70,190,100
+Client_8,Tech,YouTube,Text,Education,17788,23916,1523,152,686,44,0,100
+Client_4,Health,LinkedIn,Carousel,BehindScenes,5343,9683,555,41,147,20,268,100
+Client_3,Fashion,Facebook,Text,BehindScenes,5836,9104,594,43,363,45,0,100
+Client_5,Food,Facebook,Image,Tutorial,7287,11641,440,41,443,48,126,100
+Client_7,Fashion,Facebook,Image,Promo,5097,9518,469,54,290,42,106,100
+Client_2,Fashion,Facebook,Carousel,News,7306,13414,640,94,508,55,101,100
+Client_4,Finance,TikTok,Carousel,Promo,21555,27257,555,48,1014,146,210,100
+Client_9,Finance,Facebook,Video,Promo,5684,7029,177,20,94,11,0,100
+Client_2,Tech,TikTok,Reel,Education,10273,13603,645,34,268,20,0,100
+Client_1,Tech,Instagram,Carousel,Education,7867,9093,204,30,290,35,0,100
+Client_9,Health,LinkedIn,Reel,Tutorial,1587,1964,151,8,75,7,34,90
+Client_7,Fashion,Facebook,Carousel,Education,7881,13473,879,95,308,34,37,100
+Client_6,Fashion,Facebook,Carousel,Promo,6658,9149,272,37,102,8,0,100
+Client_9,Tech,TikTok,Video,BehindScenes,13996,19465,1442,119,575,56,0,100
+Client_1,Health,Facebook,Video,Promo,5053,7183,473,53,89,6,0,100
+Client_7,Food,TikTok,Reel,Education,18561,30077,1662,226,1001,101,0,100
+Client_1,Fashion,LinkedIn,Video,News,1554,2310,51,7,36,2,235,26
+Client_1,Food,YouTube,Video,News,10825,15526,878,111,599,83,0,100
+Client_5,Health,Instagram,Image,BehindScenes,1695,1936,88,6,68,8,0,73
+Client_5,Finance,TikTok,Reel,Promo,27823,48635,3399,328,672,78,10,100
+Client_5,Fashion,YouTube,Video,Promo,10969,14226,636,51,162,18,0,100
+Client_6,Health,LinkedIn,Carousel,News,4909,8659,683,75,128,10,0,100
+Client_2,Fashion,YouTube,Carousel,Promo,19588,37558,1940,125,1095,154,51,100
+Client_8,Finance,Instagram,Text,Tutorial,1723,2644,92,5,65,4,0,61
+Client_9,Finance,LinkedIn,Image,Tutorial,2653,4709,322,29,62,7,0,87
+Client_7,Health,Facebook,Video,Education,1480,2457,103,14,31,2,0,44
+Client_6,Tech,LinkedIn,Text,Tutorial,4373,7216,202,20,224,30,0,100
+Client_10,Food,YouTube,Image,News,13280,15776,1130,97,618,68,0,100
+Client_5,Tech,Instagram,Image,News,4344,5625,310,45,179,13,0,100
+Client_9,Food,LinkedIn,Image,Promo,5257,7529,390,36,153,10,0,100
+Client_2,Finance,Instagram,Reel,Education,1118,1347,66,6,40,3,0,53
+Client_3,Fashion,Instagram,Video,Tutorial,6337,7512,336,47,236,32,0,100
+Client_2,Fashion,Facebook,Image,Education,7783,11907,870,76,212,11,0,100
+Client_1,Fashion,Instagram,Text,News,5473,9734,449,36,350,41,0,100
+Client_10,Fashion,LinkedIn,Image,News,5800,7730,322,40,159,10,0,100
+Client_4,Food,LinkedIn,Video,Promo,6801,10180,222,19,215,27,0,100
+Client_4,Finance,LinkedIn,Reel,Tutorial,9025,16808,390,24,658,65,229,100
+Client_10,Finance,Facebook,Video,Education,2788,3952,237,32,121,15,189,100
+Client_1,Food,TikTok,Carousel,Promo,16504,28436,1235,100,654,33,277,100
+Client_10,Food,LinkedIn,Text,Promo,8929,11384,866,79,398,28,142,100
+Client_6,Tech,TikTok,Video,Tutorial,26982,48438,1665,164,1862,108,13,100
+Client_1,Health,Instagram,Video,Tutorial,10728,18113,381,33,257,35,11,100
+Client_3,Fashion,LinkedIn,Carousel,Tutorial,2487,3009,153,12,115,6,0,100
+Client_2,Health,Facebook,Reel,News,2535,3465,70,9,89,5,0,81
+Client_10,Tech,YouTube,Reel,Tutorial,20565,31011,1086,146,895,59,29,100
+Client_8,Fashion,Instagram,Video,BehindScenes,10200,18278,829,80,484,47,89,100
+Client_6,Fashion,Instagram,Text,Promo,3345,5560,168,8,153,19,0,100
+Client_9,Finance,LinkedIn,Text,News,6848,10729,544,62,149,20,0,100
+Client_8,Finance,Instagram,Carousel,BehindScenes,1703,2117,56,2,32,2,0,38
+Client_8,Food,TikTok,Carousel,Tutorial,9806,11677,606,59,408,54,0,100
+Client_10,Finance,Instagram,Video,Promo,4330,5041,331,30,127,7,0,100
+Client_1,Finance,YouTube,Image,BehindScenes,16049,18938,452,24,547,81,0,100
+Client_7,Finance,Facebook,Text,Tutorial,10387,14316,622,52,340,27,47,100
+Client_3,Fashion,YouTube,Image,News,19204,29043,2228,211,525,52,0,100
+Client_4,Food,Facebook,Reel,Promo,7522,8559,248,26,132,10,0,100
+Client_1,Health,Facebook,Image,Promo,2063,3525,125,8,101,12,0,100
+Client_6,Tech,Instagram,Carousel,BehindScenes,7315,9177,365,25,353,34,0,100
+Client_1,Tech,Instagram,Image,News,5566,9805,345,51,324,26,0,100
+Client_7,Food,LinkedIn,Video,BehindScenes,6830,11678,675,81,253,24,0,100
+Client_1,Fashion,Facebook,Text,BehindScenes,11694,17208,541,59,312,43,112,100
+Client_7,Health,YouTube,Image,Education,23710,45060,2097,191,576,63,101,100
+Client_3,Finance,Instagram,Image,BehindScenes,7410,11424,322,38,296,15,168,100
+Client_9,Fashion,TikTok,Video,Education,19064,22469,1354,183,269,38,0,100
+Client_6,Fashion,Instagram,Reel,News,2418,3622,85,8,86,9,0,85
+Client_9,Health,LinkedIn,Text,Education,7062,7905,550,32,226,23,0,100
+Client_10,Tech,LinkedIn,Reel,Education,5840,9925,368,30,241,23,0,100
+Client_6,Finance,YouTube,Video,Education,15016,19352,1006,116,313,45,116,100
+Client_6,Finance,TikTok,Video,News,18795,34035,736,90,1103,102,235,100
+Client_3,Food,Instagram,Carousel,Promo,10764,13851,561,70,410,24,27,100
+Client_8,Food,LinkedIn,Image,Education,7960,12174,486,25,152,16,143,100
+Client_2,Fashion,Instagram,Text,BehindScenes,7038,8835,271,15,233,17,74,100
+Client_5,Tech,Facebook,Video,Promo,5318,6948,381,46,276,36,0,100
+Client_1,Tech,Facebook,Carousel,Tutorial,1868,2123,88,7,31,3,0,42
+Client_1,Tech,LinkedIn,Video,Education,3783,6920,278,15,120,14,175,100
+Client_10,Fashion,TikTok,Image,Tutorial,11169,16028,885,126,505,70,0,100
+Client_9,Fashion,Instagram,Text,Promo,11409,15683,534,54,468,60,133,100
+Client_5,Food,LinkedIn,Reel,News,2999,4965,390,50,144,8,0,100
+Client_2,Health,TikTok,Video,News,29227,47857,3339,337,1161,171,193,100
+Client_4,Finance,LinkedIn,Image,Education,5419,9552,307,43,341,37,0,100
+Client_5,Food,TikTok,Image,News,10812,12733,437,22,157,11,0,100
+Client_2,Fashion,LinkedIn,Text,News,7632,10856,641,34,233,25,0,100
+Client_3,Fashion,TikTok,Carousel,Tutorial,12748,20039,515,36,598,34,0,100
+Client_6,Tech,Facebook,Carousel,BehindScenes,7405,10598,582,58,351,25,188,100
+Client_8,Fashion,YouTube,Image,News,18295,26864,887,79,720,56,260,100
+Client_5,Tech,Facebook,Text,Education,11472,19552,1443,174,547,52,175,100
+Client_3,Food,Instagram,Reel,Education,11319,17593,750,69,245,35,264,100
+Client_6,Fashion,LinkedIn,Video,Tutorial,6090,10355,285,24,282,26,0,100
+Client_2,Health,Instagram,Video,Education,7852,9800,256,13,390,43,0,100
+Client_2,Fashion,TikTok,Carousel,Education,16606,23694,789,91,434,60,234,100
+Client_9,Tech,Instagram,Image,Tutorial,6346,9273,592,72,368,36,0,100
+Client_6,Health,Facebook,Video,BehindScenes,7543,12999,562,73,471,67,0,100
+Client_5,Fashion,YouTube,Video,Education,17010,24703,1276,143,511,69,0,100
+Client_6,Fashion,YouTube,Text,BehindScenes,17923,23600,753,106,516,66,0,100
+Client_6,Food,TikTok,Image,BehindScenes,28377,50217,1493,210,751,74,68,100
+Client_7,Food,TikTok,Image,BehindScenes,23608,43844,1002,146,1607,105,247,100
+Client_8,Fashion,Facebook,Video,BehindScenes,6450,11272,595,54,180,24,67,100
+Client_3,Food,Facebook,Text,BehindScenes,6252,8019,229,21,320,45,264,100
+Client_7,Tech,LinkedIn,Video,Tutorial,1855,2051,115,7,72,6,0,82
+Client_2,Tech,YouTube,Text,Promo,14647,21645,1028,122,545,52,0,100
+Client_7,Fashion,Instagram,Text,BehindScenes,7122,11704,498,40,156,12,241,100
+Client_8,Tech,YouTube,Reel,BehindScenes,18047,29640,1580,133,938,132,0,100
+Client_7,Health,YouTube,Text,Tutorial,16291,21611,1074,91,806,42,0,100
+Client_3,Finance,YouTube,Image,Education,16676,23892,728,60,570,82,0,100
+Client_6,Tech,Facebook,Carousel,BehindScenes,2658,3464,73,6,95,11,0,92
+Client_8,Food,YouTube,Text,BehindScenes,9614,14796,333,25,544,78,0,100
+Client_4,Fashion,LinkedIn,Carousel,BehindScenes,3393,5996,227,30,86,12,0,100
+Client_5,Tech,LinkedIn,Image,BehindScenes,4970,6681,517,26,237,18,0,100
+Client_5,Fashion,Instagram,Carousel,Promo,2796,3772,93,11,49,5,111,61
+Client_7,Tech,Facebook,Carousel,Promo,1195,1459,39,4,19,0,0,30
+Client_1,Health,Facebook,Carousel,Education,6826,8322,576,35,298,40,0,100
+Client_8,Fashion,Facebook,Video,Tutorial,4213,7465,275,28,192,21,0,100
+Client_3,Health,Instagram,Video,Promo,1930,2395,84,5,60,3,0,56
+Client_9,Finance,LinkedIn,Reel,Tutorial,7629,8502,632,92,267,20,0,100
+Client_4,Fashion,LinkedIn,Reel,News,4700,5537,270,33,158,19,0,100
+Client_10,Tech,Instagram,Reel,Tutorial,6045,7340,255,36,101,5,162,88
+Client_2,Finance,YouTube,Reel,BehindScenes,19098,33315,2255,303,769,44,271,100
+Client_1,Food,YouTube,Carousel,News,13801,20486,620,81,246,17,0,100
+Client_8,Health,Facebook,Image,Tutorial,1389,1813,54,7,56,7,0,58
+Client_7,Fashion,Instagram,Reel,News,8338,11560,772,64,323,21,135,100
+Client_1,Finance,Instagram,Reel,BehindScenes,9997,12280,870,70,249,32,168,100
+Client_3,Food,YouTube,Reel,Education,26517,50440,1790,206,1650,126,267,100
+Client_7,Food,Facebook,Video,BehindScenes,2566,4222,159,21,59,3,0,64
+Client_2,Food,TikTok,Reel,News,17936,24466,1825,153,399,50,0,100
+Client_8,Finance,Facebook,Text,News,2802,3358,260,30,71,7,0,87
+Client_6,Food,Instagram,Reel,Education,8343,16006,1145,104,513,34,250,100
+Client_7,Health,YouTube,Video,BehindScenes,17529,29886,1174,91,714,42,73,100
+Client_8,Finance,LinkedIn,Carousel,Promo,3996,6388,259,14,229,24,29,100
+Client_6,Fashion,TikTok,Text,News,13059,23301,890,110,559,58,0,100
+Client_9,Food,Facebook,Text,Education,3681,4229,300,19,98,10,0,100
+Client_8,Fashion,YouTube,Video,Education,29007,34721,2027,128,913,126,24,100
+Client_3,Health,Instagram,Carousel,Education,7304,9604,285,27,110,13,0,100
+Client_4,Food,Instagram,Image,News,4776,6898,145,17,224,15,0,100
+Client_4,Finance,YouTube,Text,News,14158,18776,656,62,540,69,0,100
+Client_9,Health,TikTok,Video,Promo,13333,19065,539,31,331,43,0,100
+Client_7,Fashion,LinkedIn,Carousel,Promo,5061,7111,155,19,119,13,0,100
+Client_4,Tech,YouTube,Carousel,News,15187,19115,437,52,373,24,0,100
+Client_3,Tech,Facebook,Video,Tutorial,2531,2890,205,18,45,4,0,69
+Client_4,Tech,LinkedIn,Reel,Tutorial,6781,9550,525,42,233,20,0,100
+Client_1,Fashion,Instagram,Image,Education,6426,11452,780,94,116,11,0,100
+Client_9,Tech,TikTok,Image,BehindScenes,18030,30592,1677,204,342,48,0,100
+Client_10,Health,Facebook,Image,News,1233,2186,68,9,46,4,0,59
+Client_8,Food,Instagram,Image,Education,8755,15299,344,50,457,23,180,100
+Client_2,Finance,YouTube,Image,Tutorial,9118,11372,446,55,356,48,0,100
+Client_4,Finance,LinkedIn,Video,Promo,5008,5959,256,23,82,8,0,100
+Client_5,Fashion,TikTok,Text,News,28312,42648,1561,190,687,37,215,100
+Client_10,Tech,LinkedIn,Reel,BehindScenes,4656,5611,254,34,189,28,175,100
+Client_10,Fashion,Instagram,Text,BehindScenes,1130,1773,73,7,56,6,0,62
+Client_9,Health,Instagram,Image,Education,3684,5408,257,34,134,20,0,100
+Client_3,Finance,TikTok,Video,BehindScenes,10889,18868,1094,155,531,26,0,100
+Client_5,Health,YouTube,Carousel,Education,17849,24873,1052,119,865,79,0,100
+Client_8,Fashion,TikTok,Reel,Education,20578,26425,1173,86,738,83,246,100
+Client_7,Food,Facebook,Image,News,7398,11832,321,45,465,68,207,100
+Client_4,Health,YouTube,Video,Tutorial,10032,13077,319,33,155,17,0,100
+Client_1,Health,LinkedIn,Carousel,Promo,2202,2525,197,10,78,10,0,95
+Client_2,Fashion,Instagram,Text,Tutorial,7101,11766,868,83,197,10,0,100
+Client_8,Food,Instagram,Carousel,Promo,2854,3820,124,7,57,5,0,79
+Client_1,Finance,LinkedIn,Text,Education,6317,8712,482,64,152,16,0,100
+Client_1,Tech,LinkedIn,Carousel,News,4733,5947,424,38,179,25,0,100
+Client_3,Fashion,TikTok,Video,Promo,8386,13102,672,69,406,28,0,100
+Client_7,Health,YouTube,Reel,BehindScenes,16185,19546,1445,117,446,49,0,100
+Client_2,Finance,LinkedIn,Video,Education,6524,8422,520,45,310,35,0,100
+Client_6,Fashion,Facebook,Video,Education,9015,15982,654,77,320,45,80,100
+Client_6,Health,Instagram,Carousel,News,2918,4789,215,27,188,12,0,100
+Client_5,Finance,YouTube,Carousel,News,16411,23571,823,76,288,37,0,100
+Client_7,Fashion,LinkedIn,Text,Tutorial,11421,17558,1063,98,264,32,293,100
+Client_8,Health,Facebook,Text,Education,9895,18985,992,82,425,45,118,100
+Client_1,Fashion,TikTok,Carousel,Promo,18380,22603,975,60,461,24,0,100
+Client_8,Finance,LinkedIn,Video,BehindScenes,6546,10570,406,56,289,37,0,100
+Client_1,Fashion,LinkedIn,Video,Promo,7384,12926,806,68,370,46,0,100
+Client_10,Finance,TikTok,Video,Education,10008,11732,854,110,370,18,0,100
+Client_5,Fashion,TikTok,Carousel,News,20286,35852,2438,194,1023,63,119,100
+Client_10,Fashion,Instagram,Reel,Education,4383,5699,163,15,91,5,157,77
+Client_5,Fashion,Instagram,Carousel,Tutorial,9372,13974,608,79,462,67,223,100
+Client_4,Tech,Instagram,Image,Tutorial,3097,4257,199,15,163,9,0,100
+Client_4,Fashion,TikTok,Reel,Education,11671,17651,956,121,601,65,0,100
+Client_9,Tech,Facebook,Carousel,Tutorial,4365,5075,138,12,80,9,0,92
+Client_1,Finance,YouTube,Carousel,News,19927,24906,1670,224,520,30,0,100
+Client_5,Finance,Facebook,Carousel,News,4440,7444,435,32,250,27,0,100
+Client_4,Finance,YouTube,Text,Promo,9610,11314,656,70,346,44,0,100
+Client_9,Finance,TikTok,Image,Tutorial,22350,35768,1643,157,1184,149,160,100
+Client_6,Finance,Instagram,Text,BehindScenes,7459,10256,296,26,150,9,0,100
+Client_2,Health,YouTube,Reel,BehindScenes,16835,26090,787,46,826,64,0,100
+Client_2,Health,Instagram,Reel,Promo,1780,2073,92,11,37,3,0,52
+Client_3,Tech,Instagram,Text,BehindScenes,6362,8590,433,60,272,28,0,100
+Client_9,Tech,YouTube,Image,Promo,9841,11124,614,61,133,15,0,100
+Client_1,Health,Instagram,Reel,Tutorial,6828,12201,431,57,347,32,0,100
+Client_6,Fashion,Facebook,Text,Education,9708,13593,983,71,464,43,24,100
+Client_4,Fashion,Instagram,Image,Promo,2313,3611,81,4,68,8,230,71
+Client_9,Finance,LinkedIn,Video,Promo,3690,6846,171,21,161,15,47,100
+Client_4,Finance,LinkedIn,Carousel,BehindScenes,3012,4452,267,21,62,6,0,89
+Client_1,Finance,Facebook,Carousel,BehindScenes,7744,10033,501,51,173,10,228,100
+Client_2,Health,Instagram,Text,Tutorial,6515,9295,397,31,310,34,0,100
+Client_3,Finance,Instagram,Image,News,4690,7025,212,26,128,15,149,100
+Client_7,Finance,Instagram,Text,News,3408,4937,368,24,186,12,0,100
+Client_8,Finance,Instagram,Video,News,3402,4915,346,51,115,11,0,100
+Client_7,Health,LinkedIn,Carousel,Tutorial,4763,7783,213,23,88,12,0,100
+Client_7,Fashion,YouTube,Image,Tutorial,18820,24444,1330,159,828,86,45,100
+Client_4,Health,TikTok,Text,BehindScenes,16249,20392,844,45,624,57,0,100
+Client_2,Fashion,LinkedIn,Video,Promo,1422,2092,90,5,76,3,0,69
+Client_1,Finance,LinkedIn,Text,BehindScenes,3343,4102,274,37,156,8,185,100
+Client_7,Finance,Instagram,Carousel,Education,3861,6008,220,13,229,20,0,100
+Client_10,Tech,Facebook,Video,BehindScenes,1110,1291,41,3,21,1,0,32
+Client_7,Finance,LinkedIn,Image,BehindScenes,5698,6681,145,21,95,7,0,100
+Client_6,Health,YouTube,Video,BehindScenes,15427,23414,1497,80,601,72,0,100
+Client_1,Food,TikTok,Carousel,BehindScenes,27250,48993,1544,150,1459,102,114,100
+Client_1,Health,TikTok,Text,Education,12799,22350,1663,118,741,79,121,100
+Client_1,Fashion,LinkedIn,Image,Tutorial,1676,2133,87,9,42,4,0,66
+Client_8,Health,Facebook,Video,News,6494,10528,663,46,219,25,0,100
+Client_5,Finance,YouTube,Text,News,19020,35636,1576,107,1055,76,93,100
+Client_8,Tech,LinkedIn,Carousel,News,2907,3688,168,14,101,8,141,94
+Client_4,Health,Facebook,Carousel,Tutorial,7983,10157,475,24,115,12,0,100
+Client_8,Health,YouTube,Video,News,12716,21039,1442,81,405,24,0,100
+Client_4,Health,Facebook,Video,Tutorial,5233,9382,626,37,288,19,139,100
+Client_2,Finance,TikTok,Text,BehindScenes,15001,22906,1215,78,247,24,0,100
+Client_5,Finance,LinkedIn,Video,Promo,5824,9969,240,19,341,41,0,100
+Client_4,Fashion,Facebook,Carousel,News,7248,8846,271,14,346,18,68,100
+Client_5,Finance,Facebook,Text,BehindScenes,8092,9675,439,59,379,50,149,100
+Client_10,Tech,Instagram,Image,Education,11286,21284,1401,158,235,16,104,100
+Client_6,Finance,Facebook,Video,BehindScenes,6460,9196,265,26,312,40,0,100
+Client_3,Fashion,Instagram,Image,Tutorial,4823,6532,434,49,129,18,0,100
+Client_10,Health,LinkedIn,Image,BehindScenes,6108,8204,291,43,233,11,179,100
+Client_10,Food,Instagram,Reel,Education,2653,4593,199,22,158,13,295,100
+Client_6,Health,Instagram,Reel,News,10786,13024,941,75,305,27,272,100
+Client_7,Tech,Facebook,Reel,Promo,7343,9921,604,61,99,13,0,100
+Client_2,Health,LinkedIn,Image,News,3606,6108,271,18,131,15,76,100
+Client_8,Health,Facebook,Reel,Education,11826,16580,482,65,594,50,30,100
+Client_8,Food,Instagram,Image,Education,1910,2715,189,15,43,2,0,66
+Client_4,Fashion,TikTok,Text,Education,18261,22920,1716,247,755,75,0,100
+Client_3,Food,YouTube,Image,News,15641,18012,1425,196,699,82,0,100
+Client_4,Health,TikTok,Carousel,Promo,14520,22810,579,59,797,101,0,100
+Client_5,Finance,LinkedIn,Reel,BehindScenes,6695,10212,525,39,316,24,0,100
+Client_5,Health,TikTok,Text,News,9827,11217,753,85,248,28,0,100
+Client_4,Tech,LinkedIn,Carousel,Promo,1628,1960,143,8,68,4,0,78
+Client_6,Tech,LinkedIn,Reel,Tutorial,3928,6513,155,16,188,15,0,100
+Client_1,Tech,LinkedIn,Image,News,6225,9476,208,27,121,15,281,100
+Client_5,Fashion,Facebook,Text,Promo,3982,6793,302,23,267,29,206,100
+Client_6,Finance,Facebook,Reel,BehindScenes,7407,9290,224,19,146,20,0,100
+Client_3,Fashion,Facebook,Carousel,News,2401,3295,70,8,94,10,0,99
+Client_6,Fashion,YouTube,Image,BehindScenes,14130,25139,701,103,466,58,0,100
+Client_3,Fashion,YouTube,Video,Education,16058,20679,572,44,663,92,0,100
+Client_6,Health,Instagram,Carousel,BehindScenes,5257,7200,567,53,101,9,0,100
